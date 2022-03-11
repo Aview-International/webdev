@@ -1,6 +1,6 @@
 import '../Styles/Landing.css';
 import React, {useState, useEffect} from "react";
-import Background from "./Background.js";
+import Background from "../Components/Background.js";
 import ReactDOM from 'react-dom';
 import Button from '@mui/material/Button';
 import Logo from '/Volumes/Samsung_T5/webdev/aview-app/src/logowhite.png';
@@ -12,9 +12,8 @@ function Landing(){
         <div>
 
             <Background></Background>
-            <div className='Landing'>
-                <header className='logo'> <img src={Logo} className="Landing-logo" alt="logo" ></img></header>
-             </div>
+            <header className='logo'> <img src={Logo} className="Landing-logo" alt="logo" ></img></header>
+            
             
 
         </div>
