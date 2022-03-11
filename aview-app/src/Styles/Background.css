@@ -1,0 +1,70 @@
+
+
+.Landing-background{
+    /* BG_and_blobs */
+    
+        position: auto;
+        width: 1440px;
+        height: 4890px;
+    
+        background: #090C32;
+    
+    
+}
+    
+.blob1{
+    /* Vector */
+    /* Vector */
+
+    position: absolute;
+    width: 640px;
+    height: 881px;
+    left: -168px;
+    top: 841px;
+
+    background: rgba(115, 188, 255, 0.25);
+    filter: blur(200px);
+
+}
+
+
+.blob2{
+    /* Vector */
+
+    position: absolute;
+    width: 552px;
+    height: 709px;
+    left: 852px;
+    top: -123px;
+
+    background: rgba(254, 54, 136, 0.3);
+    filter: blur(400px);
+
+
+}
+.blob3{
+
+
+    position: absolute;
+    width: 607.54px;
+    height: 634.03px;
+    left: -80px;
+    top: 3794px;
+
+    background: rgba(254, 54, 136, 0.3);
+    filter: blur(500px);
+
+}
+
+.blob4{
+    position: absolute;
+    width: 897px;
+    height: 931px;
+    left: 955px;
+    top: 2171px;
+
+    background: linear-gradient(150.63deg, rgba(254, 54, 136, 0.25) 10.87%, rgba(115, 188, 255, 0.25) 94.92%);
+    filter: blur(400px);
+
+
+}
