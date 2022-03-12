@@ -1,0 +1,60 @@
+.homeBut{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    left: 472px;
+    top: 115px;
+
+
+}
+
+.creatorBut{
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 587px;
+    top: 115px;
+
+}
+.translatorBut{
+    position: absolute;
+    width: 122px;
+    height: 30px;
+    left: 730px;
+    top: 115px;
+
+}
+
+.aboutBut{
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: 902px;
+    top: 115px;
+}
+.contactBut{
+    position: absolute;
+    width: 145px;
+    height: 30px;
+    left: 1180px;
+    top: 115px;
+
+}
+.contactBorder{
+    /* Rectangle 67 */
+
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 1140px;
+    top: 98px;
+
+    border-radius: 50px;
+    border: 3px solid;
+
+    border-image-source: linear-gradient(93.34deg, #FE3688 1.06%, #73BCFF 104.51%);
+
+
+
+
+}

@@ -1,7 +1,5 @@
 import "../Styles/Background.css";
 import React, {useState, useEffect} from "react";
-import { Link } from 'react-router-dom';
-
    function Background(){
         return(
             <background class='Landing'>
