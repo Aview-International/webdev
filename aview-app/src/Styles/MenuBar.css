@@ -1,0 +1,53 @@
+.homeBut{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    left: 472px;
+    top: 115px;
+
+
+}
+
+.creatorBut{
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 587px;
+    top: 115px;
+
+}
+.translatorBut{
+    position: absolute;
+    width: 122px;
+    height: 30px;
+    left: 730px;
+    top: 115px;
+
+}
+
+.aboutBut{
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: 902px;
+    top: 115px;
+}
+.contactBut{
+    position: absolute;
+    height: 30px;
+    left: 1145px;
+    top: 115px;
+}
+
+.contactRect{
+    
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 1140px;
+    top: 104px;
+    
+    border-radius: 50px;
+    border: linear-gradient(rgba(115,188,255,1), rgba(254,54,136,1));
+
+}
