@@ -34,27 +34,20 @@
 }
 .contactBut{
     position: absolute;
-    width: 145px;
     height: 30px;
-    left: 1180px;
+    left: 1145px;
     top: 115px;
-
 }
-.contactBorder{
-    /* Rectangle 67 */
 
+.contactRect{
+    
     position: absolute;
     width: 200px;
     height: 60px;
     left: 1140px;
-    top: 98px;
-
+    top: 104px;
+    
     border-radius: 50px;
-    border: 3px solid;
-
-    border-image-source: linear-gradient(93.34deg, #FE3688 1.06%, #73BCFF 104.51%);
-
-
-
+    border: linear-gradient(rgba(115,188,255,1), rgba(254,54,136,1));
 
 }

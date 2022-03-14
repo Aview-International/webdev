@@ -2,7 +2,7 @@ import ButtonUnstyled from '@mui/base/ButtonUnstyled';
 import "../Styles/MenuBar.css";
 import Button from '@mui/material/Button';
 import React from "react";
-import { fontStyle } from '@mui/system';
+import outline from "/Volumes/Samsung_T5/webdev/aview-app/src/Rectangle-67.svg"
 
 
 function MenuBar(){
@@ -68,23 +68,24 @@ function MenuBar(){
                  }}>
                     About
                 </Button>
-            </header> 
+            </header>
+            <header className='contactRect'> <img src={outline} className="outline" alt="contactRect" ></img></header>
+
             <header className='contactBut'>
                 <Button href="#text-buttons" style={{
- 
-                    // fontFamily: 'Overpass',
-                    // fontStyle: 'normal',
+                    width: '200px',
+                    borderRadius: '0px',
                     fontWeight: 500,
                     fontSize: '24px',
                     lineHeight: '30px',
-                    textTransform: 'none',
-                    color: '#FFFFFF'
 
-                 }} >
+                    color: '#ffffff',
+                    textTransform: 'none',                                     
+                 }}onClick={()=>{window.location.reload(false);}}disableRipple>
                     Contact Us
                 </Button>
             </header> 
-            <header className='contactBorder'></header>
+            
 
         </menuBar>
 
