@@ -1,8 +1,7 @@
-import ButtonUnstyled from '@mui/base/ButtonUnstyled';
 import "../Styles/MenuBar.css";
 import Button from '@mui/material/Button';
 import React from "react";
-import outline from "/Volumes/Samsung_T5/webdev/aview-app/src/Rectangle-67.svg"
+import box from "/Volumes/Samsung_T5/webdev/aview-app/src/Rectangle-67.svg"
 
 
 function MenuBar(){
@@ -54,7 +53,7 @@ function MenuBar(){
                 </Button>
             </header> 
             <header className='aboutBut'>
-                <Button href="#text-buttons" style={{
+                <Button variant = 'text' href="#text-buttons" style={{
  
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
@@ -69,23 +68,22 @@ function MenuBar(){
                     About
                 </Button>
             </header>
-            <header className='contactRect'> <img src={outline} className="outline" alt="contactRect" ></img></header>
+            {/* <header className="contactRect"></header> */}
+            <header className='contactRect'> <img src={box} className="box1" alt="contactRect" ></img></header>
 
             <header className='contactBut'>
-                <Button href="#text-buttons" style={{
+                <Button variant = "text" href="#text-buttons" sx={{
                     width: '200px',
-                    borderRadius: '0px',
                     fontWeight: 500,
                     fontSize: '24px',
                     lineHeight: '30px',
-
                     color: '#ffffff',
-                    textTransform: 'none',                                     
-                 }}onClick={()=>{window.location.reload(false);}}disableRipple>
+                    textTransform: 'none'  
+
+                 }}onClick={()=>{window.location.reload(false);}}disableRipple disableFocusRipple>
                     Contact Us
                 </Button>
             </header> 
-            
 
         </menuBar>
 

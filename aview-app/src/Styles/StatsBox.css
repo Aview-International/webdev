@@ -1,0 +1,29 @@
+.rect1{
+
+    position: absolute;
+    width: 1240px;
+    height: 195px;
+    left: 103px;
+    top: 1065px;
+
+    background: linear-gradient(91.62deg, #FE3688 -35.77%, #73BCFF 40.86%, #FE3688 115.91%);
+    filter: blur(35px);
+    border-radius: 5px;
+ 
+} 
+.rect2{
+    position: absolute;
+    width: 1240px;
+    height: 195px;
+    left: 100px;
+    top: 1065px;
+
+    background: #090C32;
+    backdrop-filter: blur(10px);
+    /* Note: backdrop-filter has minimal browser support */    
+    border-style: solid;
+    border-image: linear-gradient( 91.73deg, rgba(254, 54, 136, 0.65) -6.02%, rgba(115, 188, 255, 0.65) 30.24%, rgba(255, 223, 219, 0.65) 66.5%, rgba(254, 54, 136, 0.65) 104.48%);
+    border-image-slice: 1;
+    border-radius: 5px;
+
+}
