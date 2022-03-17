@@ -34,20 +34,17 @@
 }
 .contactBut{
     position: absolute;
+    width: 200px;
     height: 30px;
     left: 1145px;
     top: 115px;
-}
 
+}
 .contactRect{
-    
     position: absolute;
     width: 200px;
     height: 60px;
-    left: 1140px;
+    left: 1143px;
     top: 104px;
-    
-    border-radius: 50px;
-    border: linear-gradient(rgba(115,188,255,1), rgba(254,54,136,1));
 
 }
