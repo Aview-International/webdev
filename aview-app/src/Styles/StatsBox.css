@@ -27,3 +27,124 @@
     border-radius: 5px;
 
 }
+
+/* 250M+ */
+.stat1{
+
+    position: absolute;
+    width: 160px;
+    height: 61px;
+    left: 293px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat1under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 217px;
+    height: 46px;
+    left: 265px;
+    top: 1138px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+
+.stat2{
+
+    position: absolute;
+    width: 118px;
+    height: 61px;
+    left: 661px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat2under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 217px;
+    height: 46px;
+    left: 612px;
+    top: 1138px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+
+.stat3{
+
+    position: absolute;
+    width: 121px;
+    height: 61px;
+    left: 1007px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat3under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 217px;
+    height: 46px;
+    left: 959px;
+    top: 1138px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
