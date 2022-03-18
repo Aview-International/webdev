@@ -1,0 +1,47 @@
+.phoneImage{
+    /* Saly-24 */
+
+    position: absolute;
+    width: 650px;
+    height: 556px;
+    left: 407px;
+    top: 509px;
+
+
+
+
+    background: url(/Volumes/Samsung_T5/webdev/aview-app/src/Saly-24.png);
+
+}
+.swirl2{
+    /* doodle-4 1 */
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1132px;
+    top: 593px;
+
+
+
+    background: url(/Volumes/Samsung_T5/webdev/aview-app/src/doodle-41.png);
+
+}
+.swirl1{
+  /* doodle-5 1 */
+
+/* doodle-5 1 */
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    left: 82px;
+    top: 443px;
+
+
+
+    background: url(/Volumes/Samsung_T5/webdev/aview-app/src/doodle-51.png);
+
+
+
+
+}
