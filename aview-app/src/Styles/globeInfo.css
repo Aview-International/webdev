@@ -1,0 +1,82 @@
+.globe1{
+    /* Saly-44 */
+
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 840px;
+    top: 1360px;
+
+
+
+    background: url(/Volumes/Samsung_T5/webdev/aview-app/src/Saly-44.png);
+
+}
+
+.bodyText{
+    /* AVIEW will satisfy all your translation needs. Want subtitle translations? Dubbing? Services for short-form content? Don’t worry AVIEW has everything you need. Just contact us today and get everything done fast so you can do what you do best. */
+
+    position: absolute;
+    width: 613px;
+    height: 150px;
+    left: 100px;
+    top: 1633px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.text1{
+    /* You Create. We Translate. */
+
+    position: absolute;
+    width: 683px;
+    height: 162px;
+    left: 96px;
+    top: 1441px;
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    color: #FFFFFF;
+
+
+
+}
+.text2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    background: linear-gradient(90.06deg, #FE3688 0.08%, #73BCFF 63.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+.lMoreBut{
+    /* Learn More */
+
+    position: absolute;
+    width: 180px;
+    height: 30px;
+    left: 96px;
+    top: 1813px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+
+}
