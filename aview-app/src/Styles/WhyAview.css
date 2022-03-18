@@ -1,0 +1,256 @@
+.whenWork{
+    /* When You Work with AVIEW */
+
+    position: absolute;
+    width: 840px;
+    height: 81px;
+    left: 300px;
+    top: 2051px;
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.textStyle{
+    background: linear-gradient(90.08deg, #FE3688 -1.91%, #73BCFF 26.37%, #FE3688 53.53%, #EF1D1D 78.42%, #FFDFDB 105.57%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.box1OutLine{
+    /* Rectangle 105 */
+
+    position: absolute;
+    width: 404.18px;
+    height: 570px;
+    left: 96px;
+    top: 2203px;
+
+    background: linear-gradient(177.08deg, rgba(254, 54, 136, 0.5) 1.95%, rgba(59, 130, 241, 0.5) 95.62%);
+    filter: blur(100px);
+    border-radius: 5px;
+
+}
+.infoBox{
+    /* Rectangle 108 */
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 103px;
+    top: 2213px;
+
+    background: #090C32;
+    border-radius: 5px;
+    
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+
+
+}
+
+.FandE{
+    /* Fast & Easy */
+
+    position: absolute;
+    width: 257px;
+    height: 61px;
+    left: 171px;
+    top: 2543px;
+
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.FEdesc{
+    /* AVIEW guarantees a 24-hour turnaround on subtitles and 48 hours on dubbed content. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 140px;
+    top: 2614px;
+
+ 
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+.calenderImg{
+    /* Saly-42 */
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 165px;
+    top: 2253px;
+    background: url(../Saly-42.png);
+
+}
+
+.whyRect2{
+    /* Rectangle 102 */
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 528px;
+    top: 2213px;
+
+    background: #090C32;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+}
+
+/* Rectangle 103 */
+.whyRect3{
+
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 953px;
+    top: 2213px;
+
+    background: #090C32;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+}
+
+.accurate{
+    /* Accurate */
+
+    position: absolute;
+    width: 205px;
+    height: 61px;
+    left: 1045px;
+    top: 2543px;
+
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.accDesc{
+    /* We will ensure that our translations are accurate no matter the content. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 990px;
+    top: 2614px;
+
+  
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+.flexible{
+    /* Flexible */
+
+    position: absolute;
+    width: 177px;
+    height: 61px;
+    left: 632px;
+    top: 2543px;
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.flexDesc{
+    /* We offer a personalized payment plan and tailor our process to your needs. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 565px;
+    top: 2614px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+
+.handImg{
+    /* Saly-31 */
+
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 549px;
+    top: 2193px;
+    background: url(../Saly-31.png);
+
+}
+.checklist{
+    /* Saly-26 */
+
+    position: absolute;
+    width: 181.86px;
+    height: 225px;
+    left: 1052px;
+    top: 2263px;
+    background: url(../Saly-26.png);
+
+}
