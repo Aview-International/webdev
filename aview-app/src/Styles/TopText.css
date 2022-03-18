@@ -1,0 +1,72 @@
+.headLine{
+    /* Translation and Transcribing */
+
+/* Translation and Transcribing */
+
+
+    position: absolute;
+    width: 852px;
+    height: 81px;
+    left: 294px;
+    top: 249px;
+    padding:0;
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    /* identical to box height */
+
+    background: linear-gradient(93.01deg, #FE3688 -8.07%, #73BCFF 99.26%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+
+
+}
+
+.description{
+    /* AVIEW is a leading multi-media translation service. We work with content creators to expand their international viewership */
+/* Connect with us today to gain AVIEW on your competitors. */
+    padding:0;
+    position: absolute;
+    width: 788px;
+    height: 38px;
+    left: 326px;
+    top: 310px;
+
+    font-weight: 500, medium;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+.contactUs{
+/* Contact Us */
+
+    position: absolute;
+    width: 200px;
+    height: 77px;
+    left: 520px;
+    top: 426px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+
+
+
+
+}
+.learnMore{
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 795px;
+    top: 443px;
+    overflow: hidden
+}
