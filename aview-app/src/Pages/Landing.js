@@ -6,6 +6,7 @@ import StatsBox from '../Components/StatsBox.js';
 import Logo from '/Volumes/Samsung_T5/webdev/aview-app/src/logowhite.png';
 import TopText from '../Components/TopText';
 import Graphics from '../Components/Graphics';
+import GlobeInfo from '../Components/globeInfo';
 const baseURL = "http://localhost:3000";
 
 function Landing(){
@@ -18,6 +19,7 @@ function Landing(){
             <StatsBox/>
             <TopText/>
             <Graphics/>
+            <GlobeInfo/>
         </div>
 
         
