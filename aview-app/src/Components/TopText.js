@@ -7,7 +7,7 @@ function TopText(){
         <topText class = 'topText'>
             <header className="headLine">Translation and Transcribing </header>
             <p className="description">
-                AVIEW is a leading multi-media translation service. We work with content creators to expand their international viewership
+                Connect with us today to gain AVIEW on your competitors.            
             </p>
             <header className="contactUs">
                 <Button variant = "contained" style={{
@@ -24,12 +24,13 @@ function TopText(){
             </header>
             <header className="learnMore">
                 <Button href="#text-buttons" style={{
+                    textDecoration: 'underline',
                     fontWeight: 500,
                     fontSize: "24px",
                     textTransform: 'none',
                     lineHeight: "30px",                    
                     color: "#FFFFFF"
-               }}> <u>Learn More</u>
+               }}> Learn More
                 </Button>
             </header>
         </topText>
