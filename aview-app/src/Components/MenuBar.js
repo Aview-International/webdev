@@ -1,7 +1,7 @@
 import "../Styles/MenuBar.css";
 import Button from '@mui/material/Button';
 import React from "react";
-import box from "/Volumes/Samsung_T5/webdev/aview-app/src/Rectangle-67.svg"
+import box from "../img/Rectangle-67.svg"
 
 
 function MenuBar(){
