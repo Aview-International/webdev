@@ -10,6 +10,7 @@ import GlobeInfo from '../Components/globeInfo';
 import WhyAview from '../Components/WhyAview';
 import ContentCreator from '../Components/contentCreator';
 import GenAview from '../Components/genAview';
+import BottomPage from '../Components/bottomPage';
 const baseURL = "http://localhost:3000";
 
 function Landing(){
@@ -26,6 +27,7 @@ function Landing(){
             <WhyAview/>
             <ContentCreator/>
             <GenAview/>
+            <BottomPage/>
         </div>
 
         

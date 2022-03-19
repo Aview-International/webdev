@@ -1,0 +1,12 @@
+.aviewLogo{
+    /* logowhite 3 */
+
+    position: absolute;
+    width: 217.56px;
+    height: 73px;
+    left: 611px;
+    top: 5080px;
+    /* hello this test comment. */
+    background: url(../img/logowhite3.svg);
+
+}
