@@ -5,7 +5,7 @@
     
         position: auto;
         width: 1440px;
-        height: 4890px;
+        height: 5455px;
     
         background: #090C32;
         overflow: hidden 
@@ -13,17 +13,16 @@
 }
     
 .blob1{
-    /* Vector */
-    /* Vector */
+/* Vector */
 
     position: absolute;
-    width: 640px;
-    height: 881px;
-    left: -168px;
-    top: 841px;
+    width: 552px;
+    height: 709px;
+    left: 845px;
+    top: -197px;
 
-    background: rgba(115, 188, 255, 0.25);
-    filter: blur(200px);
+    background: rgba(254, 54, 136, 0.3);
+    filter: blur(400px);
 
 }
 
@@ -31,40 +30,53 @@
 .blob2{
     /* Vector */
 
-    position: absolute;
-    width: 552px;
-    height: 709px;
-    left: 852px;
-    top: -123px;
+  /* Vector */
 
-    background: rgba(254, 54, 136, 0.3);
-    filter: blur(400px);
+    position: absolute;
+    width: 640px;
+    height: 881px;
+    left: -180px;
+    top: 1251px;
+
+    background: rgba(115, 188, 255, 0.25);
+    filter: blur(200px);
 
 
 }
 .blob3{
 
+    /* Vector */
 
     position: absolute;
-    width: 607.54px;
-    height: 634.03px;
-    left: -80px;
-    top: 3794px;
+    width: 736px;
+    height: 931px;
+    left: 856px;
+    top: 2884px;
 
-    background: rgba(254, 54, 136, 0.3);
-    filter: blur(500px);
+    background: linear-gradient(150.63deg, rgba(254, 54, 136, 0.25) 10.87%, rgba(115, 188, 255, 0.25) 94.92%);
+    filter: blur(400px);
 
 }
 
 .blob4{
-    position: absolute;
+    /* position: absolute;
     width: 897px;
     height: 931px;
     left: 955px;
-    top: 2171px;
+    top: 2171px; */
+    position: absolute;
+    width: 607.54px;
+    height: 634.03px;
+    left: -156px;
+    top: 4763px;
+
 
     background: linear-gradient(150.63deg, rgba(254, 54, 136, 0.25) 10.87%, rgba(115, 188, 255, 0.25) 94.92%);
     filter: blur(400px);
+
+/* Vector */
+
+
 
 
 }

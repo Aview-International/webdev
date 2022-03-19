@@ -9,6 +9,7 @@ import Graphics from '../Components/Graphics';
 import GlobeInfo from '../Components/globeInfo';
 import WhyAview from '../Components/WhyAview';
 import ContentCreator from '../Components/contentCreator';
+import GenAview from '../Components/genAview';
 const baseURL = "http://localhost:3000";
 
 function Landing(){
@@ -24,6 +25,7 @@ function Landing(){
             <GlobeInfo/>
             <WhyAview/>
             <ContentCreator/>
+            <GenAview/>
         </div>
 
         
