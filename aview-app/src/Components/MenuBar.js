@@ -1,10 +1,25 @@
 import "../Styles/MenuBar.css";
+import {useNavigate} from "react-router-dom";
 import Button from '@mui/material/Button';
 import React from "react";
-import box from "../img/Rectangle-67.svg"
+import box from "../img/Rectangle-67.svg";
+
 
 
 function MenuBar(){
+    let navigate = useNavigate(); 
+    const aboutRoute = () =>{ 
+    let path = '/about' 
+    navigate(path);
+    }
+
+    const homeRoute = () =>{ 
+        let path = '/' 
+        navigate(path);
+    }
+
+
+
     return(
         <menuBar class = 'bar'>
             <header className='homeBut'>
@@ -18,7 +33,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}onClick={()=>{window.location.reload(false);}} disableRipple>
+                 }}onClick={homeRoute} disableRipple>
                     Home
                 </Button>
             </header>
@@ -53,7 +68,7 @@ function MenuBar(){
                 </Button>
             </header> 
             <header className='aboutBut'>
-                <Button variant = 'text' href="#text-buttons" style={{
+                <Button variant = 'text' style={{
  
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
@@ -64,7 +79,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}>
+                 }} onClick={aboutRoute}>
                     About
                 </Button>
             </header>

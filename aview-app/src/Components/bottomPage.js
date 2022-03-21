@@ -3,7 +3,15 @@ import React from "react";
 import Button from '@mui/material/Button';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
+import {useNavigate} from "react-router-dom";
+
+
 function BottomPage(){
+    let navigate = useNavigate(); 
+    const aboutRoute = () =>{ 
+    let path = '/about' 
+    navigate(path);
+    }
     return(
         <bottomPage class = 'pageBot'>
             <header className="aviewLogo"></header>
@@ -71,7 +79,7 @@ function BottomPage(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}onClick={()=>{window.location.reload(false);}} disableRipple>
+                 }}onClick={aboutRoute} disableRipple>
                     About
                 </Button>
             </header>
