@@ -24,20 +24,10 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-.box1OutLine{
-    /* Rectangle 105 */
 
-    position: absolute;
-    width: 404.18px;
-    height: 570px;
-    left: 96px;
-    top: 2203px;
+/* Rectangle 104 */
 
-    background: linear-gradient(177.08deg, rgba(254, 54, 136, 0.5) 1.95%, rgba(59, 130, 241, 0.5) 95.62%);
-    filter: blur(100px);
-    border-radius: 5px;
 
-}
 .infoBox{
     /* Rectangle 108 */
 
@@ -47,7 +37,7 @@
     left: 103px;
     top: 2213px;
 
-    background: #090C32;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     border-radius: 5px;
     
     backdrop-filter: blur(10px);
@@ -120,7 +110,7 @@
     left: 528px;
     top: 2213px;
 
-    background: #090C32;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
     backdrop-filter: blur(10px);
@@ -142,7 +132,7 @@
     left: 953px;
     top: 2213px;
 
-    background: #090C32;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
 

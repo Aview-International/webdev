@@ -4,7 +4,6 @@ import React, {useState, useEffect} from "react";
         return(
             <whyAview class='why'>
                 <header className="whenWork">When You <span class = 'textStyle'>Work With Aview</span></header>
-                <header className="box1OutLine"></header>
                 <header className="infoBox"></header>
                 <header className="FandE">Fast & Easy</header>
                 <header className="FEdesc">AVIEW guarantees a 24-hour turnaround on subtitles and 48 hours on dubbed content.</header>
