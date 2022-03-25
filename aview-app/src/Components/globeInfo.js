@@ -1,26 +1,24 @@
 import "../Styles/globeInfo.css";
 import React, {useState, useEffect} from "react";
 import Button from '@mui/material/Button';
+import globe from '../img/Saly-44.svg'
    function GlobeInfo(){
         return(
             <background class='globe'>
-                <header className="text1"> 
-                    You Create.<br></br>
-                   <span className="text2">We Translate.</span> 
-                 </header>
-                <header className="globe1"></header>
+                <header className="text1">What We Do</header>
+                <header className="globe1"><img src={globe} alt="globe1" /></header>
                 <header className="bodyText">
-                    AVIEW will satisfy all your translation needs. Want subtitle translations? Dubbing? Services for short-form content? Don’t worry AVIEW has everything you need. Just contact us today and get everything done fast so you can do what you do best.
-                </header>
+                Many translation services depend on AI and machine learning. The problem with this is technology is not yet ready to understand the complexity of language. That’s why AVIEW has a human approach. AVIEW has a team of translators and transcribers covering over 15 languages. Try us today and gain AVIEW on your competition.                </header>
                 <header className="lMoreBut">
                 
                     <Button href="#text-buttons" style={{
+                        width: 120,
                         textDecoration: 'underline',
                         fontWeight: 500,
                         fontWeight: 'medium',
-                        fontSize: "24px",
+                        fontSize: "18px",
                         textTransform: 'none',
-                        lineHeight: "30px",                    
+                        lineHeight: "23px",                    
                         color: "#FFFFFF"
                     }}> Learn More
                     </Button>

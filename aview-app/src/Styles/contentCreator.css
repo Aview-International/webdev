@@ -2,9 +2,10 @@
 
     position: absolute;
     width: 840px;
-    height: 162px;
+    height: 61px;
     left: 300px;
-    top: 2913px;
+    top: 2668px;
+    
     font-weight: 700;
     font-size: 64px;
     line-height: 81px;
@@ -22,14 +23,13 @@
 
 .lpLogo{
     
-
+/* finished new */
     position: absolute;
-    width: 206.1px;
-    height: 200px;
-    left: 320px;
-    top: 3130px;
+    width: 154.57px;
+    height: 150px;
+    left: 270px;
+    top: 2809px;
 
-    background: url(../img/90d611537ead32a4f10d8489a2031001-removebg-preview1.png);
     mix-blend-mode: normal;
 
 }
@@ -38,14 +38,14 @@
     /* Logan Paul */
 
     position: absolute;
-    width: 122px;
-    height: 30px;
-    left: 359px;
-    top: 3350px;
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    width: 106px;
+    height: 27px;
+    left: 294px;
+    top: 2979px;
+    
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
 
     color: #FFFFFF;
 
@@ -54,17 +54,17 @@
 
 .ninja{
     /* Ninja */
-
     position: absolute;
-    width: 57px;
-    height: 30px;
-    left: 681px;
-    top: 3350px;
+    width: 50px;
+    height: 10px;
+    left: 695px;
+    top: 2979px;
+    
 
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    
 
     color: #FFFFFF;
 
@@ -74,75 +74,71 @@
     /* image 27 */
 
     position: absolute;
-    width: 175.19px;
+    width: 131.39px;
     height: 200px;
-    left: 632px;
-    top: 3130px;
+    left: 654px;
+    top: 2809px;
 
-    background: url(../img/image27.png);
+    
     mix-blend-mode: normal;
 
 }
-.fouseyName{
+.saudName{
     /* FouseyTube */
-
     position: absolute;
-    width: 129px;
-    height: 30px;
-    left: 950px;
-    top: 3350px;
+    width: 134px;
+    height: 27px;
+    left: 1018px;
+    top: 2979px;
+    
 
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
 
     color: #FFFFFF;
 
 
 }
-.fouseyLogo{
+.saudLogo{
     /* download-removebg-preview 1 */
 
     position: absolute;
-    width: 300px;
-    height: 148.88px;
-    left: 870px;
-    top: 3161px;
+    width: 150px;
+    height: 150px;
+    left: 1010px;
+    top: 2809px;
+    
 
-    background: url(../img/fouseyLogo.png);
+    
     mix-blend-mode: normal;
 
 }
 
-.aspLogo{
+.wiLogo{
     /* image 29 */
 
     position: absolute;
-    width: 200px;
-    height: 200px;
-    left: 320px;
-    top: 3420px;
+    width: 150px;
+    height: 150px;
+    left: 272px;
+    top: 3076px;
 
-    background: url(../img/image29.png);
-    mix-blend-mode: luminosity;
+    
 
 }
 
-.aspTxt{
+.wiName{
     /* Active Self Protection */
-
     position: absolute;
-    width: 122px;
-    height: 60px;
-    left: 359px;
-    top: 3640px;
+    width: 70px;
+    height: 27px;
+    left: 312px;
+    top: 3246px;
 
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
-
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
     color: #FFFFFF;
 
 
@@ -151,13 +147,12 @@
 .ytLogo{
 
     position: absolute;
-    width: 200px;
-    height: 200px;
-    left: 610px;
-    top: 3420px;
+    width: 150px;
+    height: 150px;
+    left: 645px;
+    top: 3076px;
 
-    background: url(../img/ytLogo.png);
-    mix-blend-mode: luminosity;
+    
 
 }
 
@@ -165,15 +160,14 @@
     /* Yes Theory */
 
     position: absolute;
-    width: 121px;
-    height: 30px;
-    left: 649px;
-    top: 3640px;
-
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    width: 104px;
+    height: 27px;
+    left: 668px;
+    top: 3246px;
+    
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
 
     color: #FFFFFF;
 
@@ -184,13 +178,11 @@
         /* image 28 */
 
     position: absolute;
-    width: 200px;
-    height: 200px;
-    left: 920px;
-    top: 3420px;
+    width: 150px;
+    height: 150px;
+    left: 1010px;
+    top: 3079px;
 
-    background: url(../img/image28.png);
-    mix-blend-mode: luminosity;
 
 }
 
@@ -198,15 +190,14 @@
     /* Mark Rober */
 
     position: absolute;
-    width: 126px;
-    height: 30px;
-    left: 967px;
-    top: 3640px;
-
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    width: 109px;
+    height: 27px;
+    left: 1030px;
+    top: 3246px;
+    
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
 
     color: #FFFFFF;
 

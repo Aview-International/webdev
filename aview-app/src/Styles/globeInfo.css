@@ -2,14 +2,13 @@
     /* Saly-44 */
 
     position: absolute;
-    width: 500px;
-    height: 500px;
-    left: 840px;
-    top: 1360px;
+    height: 450px;
+    width: 450px;
+    left: 890px;
+    top: 1172px;
+    
 
 
-
-    background: url(../img/Saly-44.png);
 
 }
 
@@ -18,14 +17,14 @@
 
     position: absolute;
     width: 613px;
-    height: 150px;
+    height: 162px;
     left: 100px;
-    top: 1633px;
+    top: 1338px;
+    
 
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400, regular;
+    font-size: 21px;
+    line-height: 27px;
 
     color: #FFFFFF;
 
@@ -36,44 +35,35 @@
     /* You Create. We Translate. */
 
     position: absolute;
-    width: 683px;
-    height: 162px;
-    left: 96px;
-    top: 1441px;
+    width: 613px;
+    height: 61px;
+    left: 100px;
+    top: 1262px;
 
 
     font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
+    font-size: 48px;
+    line-height: 61px;
 
     color: #FFFFFF;
 
 
 
 }
-.text2{
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
-    background: linear-gradient(90.06deg, #FE3688 0.08%, #73BCFF 63.19%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
 
-}
 
 .lMoreBut{
     /* Learn More */
 
     position: absolute;
-    width: 180px;
-    height: 30px;
-    left: 96px;
-    top: 1813px;
+    width: 92px;
+    height: 23px;
+    left: 100px;
+    top: 1530px;
 
     font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 23px;
     text-decoration-line: underline;
 
     color: #FFFFFF;

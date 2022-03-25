@@ -2,7 +2,7 @@ import '../Styles/AboutPage.css';
 import React, {useState, useEffect} from "react";
 import Background from "../Components/Background.js";
 import MenuBar from '../Components/MenuBar.js';
-import Logo from '../img/logowhite.png';
+import Logo from '../img/logowhite3.svg';
 
 
 function AboutPage() {

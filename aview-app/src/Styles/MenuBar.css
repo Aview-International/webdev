@@ -1,50 +1,51 @@
 .homeBut{
     position: absolute;
-    width: 65px;
-    height: 30px;
-    left: 472px;
-    top: 115px;
+    width: 49px;
+    height: 23px;
+    left: 517px;
+    top: 70px;
 
 
 }
 
 .creatorBut{
     position: absolute;
-    width: 93px;
-    height: 30px;
-    left: 587px;
-    top: 115px;
+    width: 70px;
+    height: 23px;
+    left: 616px;
+    top: 70px;
 
 }
 .translatorBut{
     position: absolute;
-    width: 122px;
-    height: 30px;
-    left: 730px;
-    top: 115px;
+    width: 92px;
+    height: 23px;
+    left: 736px;
+    top: 70px;
 
 }
 
 .aboutBut{
     position: absolute;
-    width: 67px;
-    height: 30px;
-    left: 902px;
-    top: 115px;
+    width: 51px;
+    height: 23px;
+    left: 878px;
+    top: 75px;
 }
 .contactBut{
     position: absolute;
-    width: 200px;
-    height: 30px;
-    left: 1145px;
-    top: 115px;
+    width: 90px;
+    height: 23px;
+    left: 1180px;
+    top: 70px;
+    
 
 }
 .contactRect{
     position: absolute;
-    width: 200px;
-    height: 60px;
-    left: 1143px;
-    top: 104px;
+    width: 165px;
+    height: 50px;
+    left: 1175px;
+    top: 57px;
 
 }

@@ -28,7 +28,7 @@ function MenuBar(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
+                    fontSize: '18px',
                     lineHeight: '30px',
                     textTransform: 'none',
                     color: '#FFFFFF'
@@ -43,7 +43,7 @@ function MenuBar(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
+                    fontSize: '18px',
                     lineHeight: '30px',
                     textTransform: 'none',
                     color: '#FFFFFF'
@@ -58,7 +58,7 @@ function MenuBar(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
+                    fontSize: '18px',
                     lineHeight: '30px',
                     textTransform: 'none',
                     color: '#FFFFFF'
@@ -74,8 +74,8 @@ function MenuBar(){
                     // fontStyle: 'normal',
                     
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '22px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
@@ -90,7 +90,7 @@ function MenuBar(){
                 <Button variant = "text" href="#text-buttons" sx={{
                     width: '200px',
                     fontWeight: 500,
-                    fontSize: '24px',
+                    fontSize: '18px',
                     lineHeight: '30px',
                     color: '#ffffff',
                     textTransform: 'none'  

@@ -2,14 +2,14 @@
   
 
     position: absolute;
-    width: 550px;
-    height: 81px;
-    left: 479px;
-    top: 3888px;
+    width: 365px;
+    height: 61px;
+    left: 539px;
+    top: 3463px;
 
     font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
+    font-size: 48px;
+    line-height: 61px;
     /* identical to box height */
 
     background: radial-gradient(53.8% 5635.33% at 50% 50%, #FE3688 0%, #73BCFF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
@@ -26,14 +26,14 @@
 
     position: absolute;
     width: 505px;
-    height: 162px;
+    height: 46px;
     left: 767px;
-    top: 4025px;
-
+    top: 3604px;
+    
 
     font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
+    font-size: 36px;
+    line-height: 46px;
 
     color: #FFFFFF;
 
@@ -44,12 +44,11 @@
     /* business-3d-374 1 */
 
     position: absolute;
-    width: 501.32px;
-    height: 300px;
-    left: 147px;
-    top: 4030px;
+    height: 250px;
+    width: 322.5px;
+    left: 247px;
+    top: 3581px;
 
-    background: url(../img/computer.png);
 
 }
 
@@ -57,14 +56,15 @@
     /* Choosing not to expand your content to reach international viewers is a missed opportunity. AVIEW can help. Contact us today! */
 
 position: absolute;
-width: 502px;
-height: 90px;
+width: 468px;
+height: 81px;
 left: 767px;
-top: 4197px;
+top: 3660px;
 
-font-weight: 500, medium;
-font-size: 24px;
-line-height: 30px;
+
+font-weight: 400;
+font-size: 21px;
+line-height: 27px;
 
 color: #FFFFFF;
 
@@ -76,8 +76,7 @@ color: #FFFFFF;
 
     position: absolute;
     left: 767px;
-    top: 4327px;
-
+    top: 3781px;
 
 
 }
@@ -85,9 +84,8 @@ color: #FFFFFF;
     /* Rectangle 100 */
 
     position: absolute;
-    left: 770px;
-    top: 4772px;
-
+    left: 775px;
+    top: 4162px;
 
 }
 
@@ -97,13 +95,14 @@ color: #FFFFFF;
 
     position: absolute;
     width: 505px;
-    height: 81px;
-    left: 770px;
-    top: 4581px;
+    height: 46px;
+    left: 775px;
+    top: 4012px;
+    
 
     font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
+    font-size: 36px;
+    line-height: 46px;
     /* identical to box height */
 
     color: #FFFFFF;
@@ -114,15 +113,15 @@ color: #FFFFFF;
     /* Are you looking for a subtitling job? Apply today and join the team. */
 
     position: absolute;
-    width: 485px;
-    height: 60px;
-    left: 770px;
-    top: 4672px;
+    width: 355px;
+    height: 54px;
+    left: 775px;
+    top: 4068px;
+    
 
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
-
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
     color: #FFFFFF;
 
 
@@ -132,11 +131,11 @@ color: #FFFFFF;
     /* casual-life-3d-young-man-in-orange-headphones-sitting-at-green-table-and-using-computer 1 */
 
     position: absolute;
-    width: 345px;
-    height: 350px;
-    left: 247px;
-    top: 4545px;
+    height: 250px;
+    width: 363.6363525390625px;
+    left: 226px;
+    top: 3981px;
 
-    background: url(../img/translator.png);
+    /* background: url(../img/translator.png); */
 
 }

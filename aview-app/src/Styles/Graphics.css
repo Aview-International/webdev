@@ -2,15 +2,12 @@
     /* Saly-24 */
 
     position: absolute;
-    width: 650px;
-    height: 556px;
-    left: 407px;
-    top: 509px;
+    height: 450px;
+    width: 526.0791015625px;
+    left: 457px;
+    top: 388px;
 
 
-
-
-    background: url(../img/Saly-24.png);
 
 }
 .swirl2{
@@ -19,12 +16,8 @@
     position: absolute;
     width: 200px;
     height: 200px;
-    left: 1132px;
-    top: 593px;
-
-
-
-    background: url(../img/doodle-41.png);
+    left: 1121px;
+    top: 556px;
 
 }
 .swirl1{
@@ -34,14 +27,8 @@
     position: absolute;
     height: 250px;
     width: 250px;
-    left: 82px;
-    top: 443px;
-
-
-
-    background: url(../img/doodle-51.png);
-
-
-
+    left: 140px;
+    top: 235px;
+    
 
 }

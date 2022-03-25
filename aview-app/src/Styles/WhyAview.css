@@ -1,30 +1,37 @@
-.whenWork{
-    /* When You Work with AVIEW */
+
+
+.textStyle{
 
     position: absolute;
-    width: 840px;
-    height: 81px;
-    left: 300px;
-    top: 2051px;
+    width: 401px;
+    height: 61px;
+    left: 520px;
+    top: 1743px;
 
 
     font-weight: 700;
-    font-size: 64px;
-    line-height: 81px;
-    /* identical to box height */
-
-    color: #FFFFFF;
-
-
-}
-
-.textStyle{
+    font-size: 48px;
+    line-height: 61px;
     background: linear-gradient(90.08deg, #FE3688 -1.91%, #73BCFF 26.37%, #FE3688 53.53%, #EF1D1D 78.42%, #FFDFDB 105.57%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
+.whenDesc{
+    position: absolute;
+    width: 755px;
+    height: 54px;
+    left: 348px;
+    top: 1814px;
+
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+}
 /* Rectangle 104 */
 
 
@@ -32,10 +39,10 @@
     /* Rectangle 108 */
 
     position: absolute;
-    width: 390px;
-    height: 550px;
-    left: 103px;
-    top: 2213px;
+    width: 360px;
+    height: 530px;
+    left: 100px;
+    top: 1948px;
 
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     border-radius: 5px;
@@ -53,17 +60,16 @@
 
 .FandE{
     /* Fast & Easy */
-
     position: absolute;
-    width: 257px;
-    height: 61px;
-    left: 171px;
-    top: 2543px;
-
+    width: 193px;
+    height: 46px;
+    left: 183px;
+    top: 2262px;
+    
 
     font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
+    font-size: 36px;
+    line-height: 46px;
     /* identical to box height */
 
     color: #FFFFFF;
@@ -75,16 +81,16 @@
 
     position: absolute;
     width: 315px;
-    height: 90px;
-    left: 140px;
-    top: 2614px;
+    height: 81px;
+    left: 122px;
+    top: 2323px;
+    
 
- 
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
     text-align: center;
-
+    
     color: #FFFFFF;
 
 
@@ -93,11 +99,11 @@
     /* Saly-42 */
 
     position: absolute;
-    width: 250px;
-    height: 250px;
-    left: 165px;
-    top: 2253px;
-    background: url(../img/Saly-42.png);
+    width: 225px;
+    height: 225px;
+    left: 155px;
+    top: 1978px;
+    
 
 }
 
@@ -105,11 +111,10 @@
     /* Rectangle 102 */
 
     position: absolute;
-    width: 390px;
-    height: 550px;
-    left: 528px;
-    top: 2213px;
-
+    width: 360px;
+    height: 530px;
+    left: 543px;
+    top: 1948px;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
@@ -127,11 +132,10 @@
 
 
     position: absolute;
-    width: 390px;
-    height: 550px;
-    left: 953px;
-    top: 2213px;
-
+    width: 360px;
+    height: 530px;
+    left: 978px;
+    top: 1948px;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
@@ -148,18 +152,19 @@
 
 .accurate{
     /* Accurate */
-
     position: absolute;
-    width: 205px;
-    height: 61px;
-    left: 1045px;
-    top: 2543px;
-
+    width: 154px;
+    height: 46px;
+    left: 1076px;
+    top: 2262px;
+    
 
     font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
+    font-size: 36px;
+    line-height: 46px;
     /* identical to box height */
+    
+    
 
     color: #FFFFFF;
 
@@ -170,14 +175,14 @@
 
     position: absolute;
     width: 315px;
-    height: 90px;
-    left: 990px;
-    top: 2614px;
+    height: 81px;
+    left: 995px;
+    top: 2323px;
+    
 
-  
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
     text-align: center;
 
     color: #FFFFFF;
@@ -188,15 +193,18 @@
     /* Flexible */
 
     position: absolute;
-    width: 177px;
-    height: 61px;
-    left: 632px;
-    top: 2543px;
-
+    width: 133px;
+    height: 46px;
+    left: 654px;
+    top: 2262px;
+    
+ 
     font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
+    font-size: 36px;
+    line-height: 46px;
     /* identical to box height */
+    
+    
 
     color: #FFFFFF;
 
@@ -207,14 +215,14 @@
 
     position: absolute;
     width: 315px;
-    height: 90px;
-    left: 565px;
-    top: 2614px;
+    height: 81px;
+    left: 562px;
+    top: 2323px;
+    
 
-
-    font-weight: 500, medium;
-    font-size: 24px;
-    line-height: 30px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
     text-align: center;
 
     color: #FFFFFF;
@@ -226,21 +234,20 @@
     /* Saly-31 */
 
     position: absolute;
-    width: 350px;
-    height: 350px;
-    left: 549px;
-    top: 2193px;
-    background: url(../img/Saly-31.png);
+    width: 325px;
+    height: 325px;
+    left: 560px;
+    top: 1925px;
 
 }
 .checklist{
     /* Saly-26 */
 
     position: absolute;
-    width: 181.86px;
-    height: 225px;
-    left: 1052px;
-    top: 2263px;
-    background: url(../img/Saly-26.png);
+    width: 177.82px;
+    height: 220px;
+    left: 1062px;
+    top: 1978px;
+    
 
 }

@@ -4,7 +4,7 @@ import Button from '@mui/material/Button';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import {useNavigate} from "react-router-dom";
-
+import logo from '../img/logowhite3.svg'
 
 function BottomPage(){
     let navigate = useNavigate(); 
@@ -14,14 +14,14 @@ function BottomPage(){
     }
     return(
         <bottomPage class = 'pageBot'>
-            <header className="aviewLogo"></header>
+            <header className="aviewLogo"><img src={logo}alt="aviewLogo" /></header>
             <header className="ytIcon">
                 <YouTubeIcon size = 'large' sx={
-                    { 
-                        fontSize: 50,
+                    {
+
                         color: "white",
-                        width: "60px",
-                        height: "60px"
+                        width: "149.01px",
+                        height: "50px"
                     }}>
 
                 </YouTubeIcon>
@@ -29,10 +29,9 @@ function BottomPage(){
             <header className="liIcon">
                 <LinkedInIcon sx={
                     {
-                        fontSize: 50,
                         color: "white",
-                        height: "50px",
-                        width: "50px"
+                        height: "40px",
+                        width: "40px"
                     }}>
 
                 </LinkedInIcon>
@@ -44,8 +43,8 @@ function BottomPage(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '23px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
@@ -59,8 +58,8 @@ function BottomPage(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '23px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
@@ -74,8 +73,8 @@ function BottomPage(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '23px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
@@ -90,8 +89,8 @@ function BottomPage(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '23px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
@@ -106,8 +105,8 @@ function BottomPage(){
                     // fontFamily: 'Overpass',
                     // fontStyle: 'normal',
                     fontWeight: 500,
-                    fontSize: '24px',
-                    lineHeight: '30px',
+                    fontSize: '18px',
+                    lineHeight: '23px',
                     textTransform: 'none',
                     color: '#FFFFFF'
 
