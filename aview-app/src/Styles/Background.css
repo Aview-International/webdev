@@ -59,16 +59,11 @@
 }
 
 .blob4{
-    /* position: absolute;
-    width: 897px;
-    height: 931px;
-    left: 955px;
-    top: 2171px; */
     position: absolute;
     width: 607.54px;
     height: 634.03px;
     left: -164px;
-    top: 4161px;
+    top: 3900px;
 
     background: linear-gradient(150.63deg, rgba(254, 54, 136, 0.25) 10.87%, rgba(115, 188, 255, 0.25) 94.92%);
     filter: blur(400px);
