@@ -1,0 +1,1089 @@
+.Landing-logo {
+    /* logowhite 2 */
+    position: absolute;
+    width: 217.56px;
+    height: 73px;
+    left: 103px;
+    top: 80px;
+}
+.rect1{
+
+    position: absolute;
+    width: 1240px;
+    height: 195px;
+    left: 103px;
+    top: 1065px;
+
+    background: linear-gradient(91.62deg, #FE3688 -35.77%, #73BCFF 40.86%, #FE3688 115.91%);
+    filter: blur(35px);
+    border-radius: 5px;
+ 
+} 
+.rect2{
+    position: absolute;
+    width: 1240px;
+    height: 195px;
+    left: 100px;
+    top: 1065px;
+
+    background: #090C32;
+    backdrop-filter: blur(10px);
+    /* Note: backdrop-filter has minimal browser support */    
+    border-style: solid;
+    border-image: linear-gradient( 91.73deg, rgba(254, 54, 136, 0.65) -6.02%, rgba(115, 188, 255, 0.65) 30.24%, rgba(255, 223, 219, 0.65) 66.5%, rgba(254, 54, 136, 0.65) 104.48%);
+    border-image-slice: 1;
+    border-radius: 5px;
+
+}
+
+/* 250M+ */
+.stat1{
+
+    position: absolute;
+    width: 160px;
+    height: 61px;
+    left: 293px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat1under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 305px;
+    height: 30px;
+    left: 265px;
+    top: 952px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+
+.stat2{
+
+    position: absolute;
+    width: 118px;
+    height: 61px;
+    left: 661px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat2under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 217px;
+    height: 46px;
+    left: 612px;
+    top: 1138px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+
+.stat3{
+
+    position: absolute;
+    width: 121px;
+    height: 61px;
+    left: 1007px;
+    top: 1102px;
+
+    /* font-family: 'Overpass'; */
+    /* font-style: normal; */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+.stat3under{
+        /* Lorem ipsum */
+
+    position: absolute;
+    width: 217px;
+    height: 46px;
+    left: 959px;
+    top: 1138px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+
+.headLine{
+    /* Translation and Transcribing */
+
+/* Translation and Transcribing */
+
+
+    position: absolute;
+    width: 852px;
+    height: 81px;
+    left: 294px;
+    top: 249px;
+    padding:0;
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    /* identical to box height */
+
+    background: linear-gradient(93.01deg, #FE3688 -8.07%, #73BCFF 99.26%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+
+
+}
+
+.description{
+    /* AVIEW is a leading multi-media translation service. We work with content creators to expand their international viewership */
+/* Connect with us today to gain AVIEW on your competitors. */
+    padding:0;
+    position: absolute;
+    width: 788px;
+    height: 38px;
+    left: 326px;
+    top: 310px;
+
+    font-weight: 500, medium;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+
+}
+.contactUs{
+/* Contact Us */
+
+    position: absolute;
+    width: 200px;
+    height: 77px;
+    left: 520px;
+    top: 426px;
+
+    /* font-family: 'Overpass';
+    font-style: normal; */
+
+
+
+
+}
+.learnMore{
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 795px;
+    top: 443px;
+    overflow: hidden
+}
+
+.phoneImage{
+    /* Saly-24 */
+
+    position: absolute;
+    width: 650px;
+    height: 556px;
+    left: 407px;
+    top: 509px;
+
+
+
+
+
+}
+.swirl2{
+    /* doodle-4 1 */
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 1132px;
+    top: 593px;
+
+
+}
+.swirl1{
+  /* doodle-5 1 */
+
+/* doodle-5 1 */
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    left: 82px;
+    top: 443px;
+
+
+
+
+
+
+
+}
+
+.globe1{
+    /* Saly-44 */
+
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 840px;
+    top: 1360px;
+
+
+
+
+}
+
+.bodyText{
+    /* AVIEW will satisfy all your translation needs. Want subtitle translations? Dubbing? Services for short-form content? Don’t worry AVIEW has everything you need. Just contact us today and get everything done fast so you can do what you do best. */
+
+    position: absolute;
+    width: 613px;
+    height: 150px;
+    left: 100px;
+    top: 1633px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.text1{
+    /* You Create. We Translate. */
+
+    position: absolute;
+    width: 683px;
+    height: 162px;
+    left: 96px;
+    top: 1441px;
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    color: #FFFFFF;
+
+
+
+}
+.text2{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    background: linear-gradient(90.06deg, #FE3688 0.08%, #73BCFF 63.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+.lMoreBut{
+    /* Learn More */
+
+    position: absolute;
+    width: 180px;
+    height: 30px;
+    left: 96px;
+    top: 1813px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+
+}
+.whenWork{
+    /* When You Work with AVIEW */
+
+    position: absolute;
+    width: 840px;
+    height: 81px;
+    left: 300px;
+    top: 2051px;
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.textStyle{
+    background: linear-gradient(90.08deg, #FE3688 -1.91%, #73BCFF 26.37%, #FE3688 53.53%, #EF1D1D 78.42%, #FFDFDB 105.57%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Rectangle 104 */
+
+
+.infoBox{
+    /* Rectangle 108 */
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 103px;
+    top: 2213px;
+
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 5px;
+    
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+
+
+}
+
+.FandE{
+    /* Fast & Easy */
+
+    position: absolute;
+    width: 257px;
+    height: 61px;
+    left: 171px;
+    top: 2543px;
+
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.FEdesc{
+    /* AVIEW guarantees a 24-hour turnaround on subtitles and 48 hours on dubbed content. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 140px;
+    top: 2614px;
+
+ 
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+.calenderImg{
+    /* Saly-42 */
+
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 165px;
+    top: 2253px;
+
+}
+
+.whyRect2{
+    /* Rectangle 102 */
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 528px;
+    top: 2213px;
+
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+}
+
+/* Rectangle 103 */
+.whyRect3{
+
+
+    position: absolute;
+    width: 390px;
+    height: 550px;
+    left: 953px;
+    top: 2213px;
+
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.075) 50.52%, rgba(255, 255, 255, 0) 100%);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+
+    backdrop-filter: blur(10px);
+
+    border-style: solid;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1;
+
+
+}
+
+.accurate{
+    /* Accurate */
+
+    position: absolute;
+    width: 205px;
+    height: 61px;
+    left: 1045px;
+    top: 2543px;
+
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.accDesc{
+    /* We will ensure that our translations are accurate no matter the content. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 990px;
+    top: 2614px;
+
+  
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+.flexible{
+    /* Flexible */
+
+    position: absolute;
+    width: 177px;
+    height: 61px;
+    left: 632px;
+    top: 2543px;
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.flexDesc{
+    /* We offer a personalized payment plan and tailor our process to your needs. */
+
+    position: absolute;
+    width: 315px;
+    height: 90px;
+    left: 565px;
+    top: 2614px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+
+.handImg{
+    /* Saly-31 */
+
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 549px;
+    top: 2193px;
+
+}
+.checklist{
+    /* Saly-26 */
+
+    position: absolute;
+    width: 181.86px;
+    height: 225px;
+    left: 1052px;
+    top: 2263px;
+
+}
+
+.creatorTitle{
+
+    position: absolute;
+    width: 840px;
+    height: 162px;
+    left: 300px;
+    top: 2913px;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    color: #FFFFFF;
+
+}
+.titleStyle{
+    background: linear-gradient(90.27deg, #FE3688 0.09%, #73BCFF 25.62%, #3B82F1 52.73%, #B9DCFF 79.58%, #FE3688 101.16%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+.lpLogo{
+    
+
+    position: absolute;
+    width: 206.1px;
+    height: 200px;
+    left: 320px;
+    top: 3130px;
+
+    mix-blend-mode: normal;
+
+}
+
+.loganPaul{
+    /* Logan Paul */
+
+    position: absolute;
+    width: 122px;
+    height: 30px;
+    left: 359px;
+    top: 3350px;
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.ninja{
+    /* Ninja */
+
+    position: absolute;
+    width: 57px;
+    height: 30px;
+    left: 681px;
+    top: 3350px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+.ninjaLogo{
+    /* image 27 */
+
+    position: absolute;
+    width: 175.19px;
+    height: 200px;
+    left: 632px;
+    top: 3130px;
+
+    mix-blend-mode: normal;
+
+}
+.fouseyName{
+    /* FouseyTube */
+
+    position: absolute;
+    width: 129px;
+    height: 30px;
+    left: 950px;
+    top: 3350px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+.fouseyLogo{
+    /* download-removebg-preview 1 */
+
+    position: absolute;
+    width: 300px;
+    height: 148.88px;
+    left: 870px;
+    top: 3161px;
+
+    mix-blend-mode: normal;
+
+}
+
+.aspLogo{
+    /* image 29 */
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 320px;
+    top: 3420px;
+
+    mix-blend-mode: luminosity;
+
+}
+
+.aspTxt{
+    /* Active Self Protection */
+
+    position: absolute;
+    width: 122px;
+    height: 60px;
+    left: 359px;
+    top: 3640px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.ytLogo{
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 610px;
+    top: 3420px;
+
+    mix-blend-mode: luminosity;
+
+}
+
+.ytTxt{
+    /* Yes Theory */
+
+    position: absolute;
+    width: 121px;
+    height: 30px;
+    left: 649px;
+    top: 3640px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.mrLogo{
+        /* image 28 */
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 920px;
+    top: 3420px;
+
+    mix-blend-mode: luminosity;
+
+}
+
+.mrTxt{
+    /* Mark Rober */
+
+    position: absolute;
+    width: 126px;
+    height: 30px;
+    left: 967px;
+    top: 3640px;
+
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.genTitle{
+  
+
+    position: absolute;
+    width: 550px;
+    height: 81px;
+    left: 479px;
+    top: 3888px;
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    /* identical to box height */
+
+    background: radial-gradient(53.8% 5635.33% at 50% 50%, #FE3688 0%, #73BCFF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+
+}
+
+.expAudience{
+    /* Expand your Audience */
+
+    position: absolute;
+    width: 505px;
+    height: 162px;
+    left: 767px;
+    top: 4025px;
+
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+    color: #FFFFFF;
+
+
+}
+
+.compImg{
+    /* business-3d-374 1 */
+
+    position: absolute;
+    width: 501.32px;
+    height: 300px;
+    left: 147px;
+    top: 4030px;
+
+}
+
+.expDesc{
+    /* Choosing not to expand your content to reach international viewers is a missed opportunity. AVIEW can help. Contact us today! */
+
+position: absolute;
+width: 502px;
+height: 90px;
+left: 767px;
+top: 4197px;
+
+font-weight: 500, medium;
+font-size: 24px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+}
+
+.gStarted{
+    /* Rectangle 101 */
+
+    position: absolute;
+    left: 767px;
+    top: 4327px;
+
+
+
+}
+.becomeT{
+    /* Rectangle 100 */
+
+    position: absolute;
+    left: 770px;
+    top: 4772px;
+
+
+}
+
+
+.translatorHeadline{
+    /* Subtitling Jobs */
+
+    position: absolute;
+    width: 505px;
+    height: 81px;
+    left: 770px;
+    top: 4581px;
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.translatorDesc{
+    /* Are you looking for a subtitling job? Apply today and join the team. */
+
+    position: absolute;
+    width: 485px;
+    height: 60px;
+    left: 770px;
+    top: 4672px;
+
+    font-weight: 500, medium;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.translatorImg{
+    /* casual-life-3d-young-man-in-orange-headphones-sitting-at-green-table-and-using-computer 1 */
+
+    position: absolute;
+    width: 345px;
+    height: 350px;
+    left: 247px;
+    top: 4545px;
+
+   
+
+}
+
+.aviewLogo{
+    /* logowhite 3 */
+
+    position: absolute;
+    width: 217.56px;
+    height: 73px;
+    left: 611px;
+    top: 5080px;
+
+}
+.ytIcon{
+    /* Group 12 */
+
+    position: absolute;
+
+    left: 648px;
+    top: 5202px;
+
+
+}
+
+.liIcon{
+    position: absolute;
+ 
+    left: 742px;
+    top: 5208px;
+    
+
+}
+
+.creator1But{
+    /* Creators */
+
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 393px;
+    top: 5298px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+}
+
+.translator1But{
+    /* Translators */
+
+    position: absolute;
+    width: 122px;
+    height: 30px;
+    left: 536px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.about1But{
+    /* About */
+
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: 708px;
+    top: 5298px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.ContactBut{
+    /* Contact */
+
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 825px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.careerBut{
+    /* Careers */
+
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 961px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.line{
+    /* Line 9 */
+
+    position: absolute;
+    width: 1250px;
+    height: 0px;
+    left: 95px;
+    top: 5027px;
+    border: solid;
+
+    border-style: solid;
+    border-image: linear-gradient(90deg, #73BCFF 0%, #DE2F77 100%);
+    border-image-slice: 1;
+    /* border-radius: 5px; */
+
+
+}
