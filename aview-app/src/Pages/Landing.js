@@ -20,9 +20,10 @@ function Landing(){
             <Background></Background>
             <header className='logo'> <img src={Logo} className="Landing-logo" alt="logo" ></img></header>
             <MenuBar/>
+            <Graphics/>
             <StatsBox/>
             <TopText/>
-            <Graphics/>
+            
             <GlobeInfo/>
             <WhyAview/>
             <ContentCreator/>

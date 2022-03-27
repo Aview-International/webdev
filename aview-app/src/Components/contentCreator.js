@@ -1,11 +1,11 @@
 import "../Styles/contentCreator.css";
 import React, {useState, useEffect} from "react";
-import lpLogo from '../img/loganPaulLogo.svg'
-import nLogo from '../img/ninjaLogo.svg'
-import sLogo from '../img/image34.svg'
-import wIfLogo from '../img/image35.svg'
-import yesLogo from '../img/yesTheory.svg'
-import markLogo from '../img/image32.svg'
+import lpLogo from '../img/loganPaulLogo.png'
+import nLogo from '../img/ninjaLogo.png'
+import sLogo from '../img/image34.png'
+import wIfLogo from '../img/image35.png'
+import yesLogo from '../img/yesTheory.png'
+import markLogo from '../img/image32.png'
 
    function ContentCreator(){
         return(

@@ -1,8 +1,8 @@
 import "../Styles/genAview.css";
 import React, {useState, useEffect} from "react";
 import Button from '@mui/material/Button';
-import computer from '../img/Saly-10.svg'
-import translator from '../img/Saly-6.svg'
+import computer from '../img/Saly-10.png'
+import translator from '../img/Saly-6.png'
    function GenAview(){
         return(
             <genAview class='gen'>

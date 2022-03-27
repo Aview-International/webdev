@@ -1,7 +1,7 @@
 import "../Styles/globeInfo.css";
 import React, {useState, useEffect} from "react";
 import Button from '@mui/material/Button';
-import globe from '../img/Saly-44.svg'
+import globe from '../img/Saly-44.png'
    function GlobeInfo(){
         return(
             <background class='globe'>

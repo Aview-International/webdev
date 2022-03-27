@@ -1,8 +1,8 @@
 import "../Styles/WhyAview.css";
 import React, {useState, useEffect} from "react";
-import calImg from '../img/Saly-42.svg'
-import hand from '../img/Saly-31.svg'
-import clist from '../img/Saly-26.svg'
+import calImg from '../img/Saly-42.png'
+import hand from '../img/Saly-31.png'
+import clist from '../img/Saly-26.png'
    function WhyAview(){
         return(
             <whyAview class='why'>
