@@ -1,0 +1,72 @@
+.missionRect {
+    /* Rectangle 114 */
+
+    position: absolute;
+    width: 550px;
+    height: 400px;
+    left: 100px;
+    top: 1540px;
+
+    background: #EEF3FF;
+    border-radius: 10px;
+
+}
+
+.ourMission {
+    /* Our Mission??? */
+
+    position: absolute;
+    width: 613px;
+    height: 61px;
+    left: 730px;
+    top: 1540px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.missionText1 {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique feugiat non dictum purus nunc dui. Consequat arcu euismod quam nunc commodo nibh. Amet, tortor pellentesque id imperdiet nisl dignissim aliquam sit vitae. */
+
+    position: absolute;
+    width: 610px;
+    height: 108px;
+    left: 730px;
+    top: 1631px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+
+}
+
+.missionText2 {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique feugiat non dictum purus nunc dui. Consequat arcu euismod quam nunc commodo nibh. Amet, tortor pellentesque id imperdiet nisl dignissim aliquam sit vitae. */
+
+    position: absolute;
+    width: 610px;
+    height: 108px;
+    left: 730px;
+    top: 1759px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,161 @@
+.line {
+    /* Line 9 */
+
+    position: absolute;
+    width: 1240px;
+    height: 0px;
+    left: 100px;
+    top: 3516px;
+
+}
+
+.footerLogo {
+    /* logowhite 3 */
+
+    position: absolute;
+    width: 149.01px;
+    height: 50px;
+    left: 101px;
+    top: 3557px;
+
+
+}
+
+.youtubeFooter {
+/* Group 12 */
+
+    position: absolute;
+    width: 42.69px;
+    height: 30px;
+    left: 120px;
+    top: 3640px;
+
+
+
+    /* Vector
+
+    position: absolute;
+    left: 8.33%;
+    right: 88.7%;
+    top: 96.96%;
+    bottom: 2.24%;
+
+    background: #FFFFFF;
+    border: 3px solid #FFFFFF;
+
+
+    /* Vector */
+
+    /* position: absolute;
+    left: 9.51%;
+    right: 89.71%;
+    top: 97.19%;
+    bottom: 2.47%;
+
+    background: #090C32;
+    border: 3px solid #090C32; */
+
+}
+
+.linkedInFooter {
+    position: absolute;
+    left: 13.38%;
+    right: 83.84%;
+    top: 96.83%;
+    bottom: 2.1%;    
+}
+
+.creatorsFooter{
+/* Creators */
+
+    position: absolute;
+    width: 70px;
+    height: 23px;
+    left: 858px;
+    top: 3582px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.translatorsFooter {
+/* Translators */
+
+    position: absolute;
+    width: 92px;
+    height: 23px;
+    left: 963px;
+    top: 3582px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.aboutFooter {
+/* About */
+
+    position: absolute;
+    width: 51px;
+    height: 23px;
+    left: 1090px;
+    top: 3582px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.contactFooter {
+    /* Contact */
+
+    position: absolute;
+    width: 65px;
+    height: 23px;
+    left: 1176px;
+    top: 3582px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.careersFooter {
+/* Careers */
+
+    position: absolute;
+    width: 64px;
+    height: 23px;
+    left: 1276px;
+    top: 3582px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}

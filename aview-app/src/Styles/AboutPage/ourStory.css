@@ -1,0 +1,70 @@
+.ourStory {
+/* Our Story??? */
+
+    position: absolute;
+    width: 613px;
+    height: 61px;
+    left: 100px;
+    top: 982px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 61px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.ourStoryRect {
+    /* Rectangle 115 */
+
+    position: absolute;
+    width: 550px;
+    height: 400px;
+    left: 796px;
+    top: 982px;
+
+    background: #EEF3FF;
+    border-radius: 10px;
+}
+
+.ourStoryText1 {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique feugiat non dictum purus nunc dui. Consequat arcu euismod quam nunc commodo nibh. Amet, tortor pellentesque id imperdiet nisl dignissim aliquam sit vitae. */
+
+    position: absolute;
+    width: 613px;
+    height: 108px;
+    left: 100px;
+    top: 1073px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.ourStoryText2 {
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique feugiat non dictum purus nunc dui. Consequat arcu euismod quam nunc commodo nibh. Amet, tortor pellentesque id imperdiet nisl dignissim aliquam sit vitae. */
+
+    position: absolute;
+    width: 613px;
+    height: 108px;
+    left: 102px;
+    top: 1201px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+
+}

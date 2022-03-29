@@ -1,4 +1,4 @@
-import "../Styles/bottomPage.css";
+import "../Styles/TopText.css";
 import React from "react";
 import Button from '@mui/material/Button';
 import YouTubeIcon from '@mui/icons-material/YouTube';

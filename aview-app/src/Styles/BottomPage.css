@@ -6,7 +6,139 @@
     height: 73px;
     left: 611px;
     top: 5080px;
+<<<<<<< Updated upstream
+=======
 
+>>>>>>> Stashed changes
     background: url(../img/logowhite3.svg);
+
+}
+.ytIcon{
+    /* Group 12 */
+
+    position: absolute;
+
+    left: 648px;
+    top: 5202px;
+
+
+}
+
+.liIcon{
+    position: absolute;
+ 
+    left: 742px;
+    top: 5208px;
+    
+
+}
+
+.creator1But{
+    /* Creators */
+
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 393px;
+    top: 5298px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+}
+
+.translator1But{
+    /* Translators */
+
+    position: absolute;
+    width: 122px;
+    height: 30px;
+    left: 536px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.about1But{
+    /* About */
+
+    position: absolute;
+    width: 67px;
+    height: 30px;
+    left: 708px;
+    top: 5298px;
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.ContactBut{
+    /* Contact */
+
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 825px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.careerBut{
+    /* Careers */
+
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    left: 961px;
+    top: 5298px;
+
+
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+
+
+}
+
+.line{
+    /* Line 9 */
+
+    position: absolute;
+    width: 1250px;
+    height: 0px;
+    left: 95px;
+    top: 5027px;
+    border: solid;
+
+    border-style: solid;
+    border-image: linear-gradient(90deg, #73BCFF 0%, #DE2F77 100%);
+    border-image-slice: 1;
+    /* border-radius: 5px; */
+
 
 }

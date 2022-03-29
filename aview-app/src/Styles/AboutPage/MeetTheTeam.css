@@ -1,0 +1,547 @@
+.meetTeamText {
+    /* Meet The Team */
+
+position: absolute;
+width: 454px;
+height: 81px;
+left: 493px;
+top: 2160px;
+
+/* font-family: 'Overpass'; */
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 81px;
+/* identical to box height */
+
+background: linear-gradient(90.27deg, #FE3688 0.09%, #73BCFF 25.62%, #3B82F1 52.73%, #B9DCFF 79.58%, #FE3688 101.16%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+
+.teamImg1 {
+/* Rectangle 75 */
+
+position: absolute;
+width: 125px;
+height: 125px;
+left: 187px;
+top: 2301px;
+
+background: #EEF3FF;
+border-radius: 100px;
+
+}
+
+.teamRect1 {
+/* Rectangle 128 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 100px;
+    top: 2364px;
+}
+
+.teamMemberName {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 157px;
+    top: 2472px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamMemberRole {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 187px;
+    top: 2515px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+}
+
+.teamImg2 {
+    /* Rectangle 132 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 502px;
+    top: 2301px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+}
+
+.teamRect2 {
+    /* Rectangle 131 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 415px;
+    top: 2364px;
+
+    background: #090C32;
+    border-radius: 5px;
+}
+
+.teamMemberName2 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 474px;
+    top: 2472px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamMemberRole2 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 505px;
+    top: 2515px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamImg3 {
+    /* Rectangle 135 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 817px;
+    top: 2301px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+
+.teamRect3 {
+    /* Rectangle 133 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 730px;
+    top: 2364px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+.teamMemberName3 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 789px;
+    top: 2472px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.teamMemberRole3 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 819px;
+    top: 2515px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.teamImg4 {
+    /* Rectangle 136 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 1132px;
+    top: 2301px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+.teamRect4 {
+    /* Rectangle 134 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 1045px;
+    top: 2364px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+.teamMemberName4 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 1104px;
+    top: 2472px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.teamMemberRole4 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 1134px;
+    top: 2515px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.teamImg5 {
+    /* Rectangle 141 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 187px;
+    top: 2649px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+.teamRect5 {
+    /* Rectangle 137 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 100px;
+    top: 2712px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+.teamMemberName5 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 157px;
+    top: 2820px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+.teamMemberRole5 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 187px;
+    top: 2863px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+}
+
+.teamImg6 {
+/* Rectangle 143 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 502px;
+    top: 2649px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+.teamRect6 {
+/* Rectangle 139 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 415px;
+    top: 2712px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+.teamMemberName6 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 474px;
+    top: 2820px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamMemberRole6 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 502px;
+    top: 2868px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamImg7 {
+/* Rectangle 142 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 817px;
+    top: 2649px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+
+.teamRect7 {
+/* Rectangle 138 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 730px;
+    top: 2712px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+
+.teamMemberName7 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 789px;
+    top: 2820px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamMemberRole7 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 819px;
+    top: 2863px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamImg8 {
+/* Rectangle 144 */
+
+    position: absolute;
+    width: 125px;
+    height: 125px;
+    left: 1132px;
+    top: 2649px;
+
+    background: #EEF3FF;
+    border-radius: 100px;
+
+}
+.teamRect8 {
+/* Rectangle 140 */
+
+    position: absolute;
+    width: 295px;
+    height: 235px;
+    left: 1045px;
+    top: 2712px;
+
+    background: #090C32;
+    border-radius: 5px;
+
+}
+.teamMemberName8 {
+/* Lorem ipsum */
+
+    position: absolute;
+    width: 181px;
+    height: 38px;
+    left: 1104px;
+    top: 2820px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.teamMemberRole8 {
+    /* Lorem ipsum */
+
+    position: absolute;
+    width: 122px;
+    height: 27px;
+    left: 1134px;
+    top: 2863px;
+
+    /* font-family: 'Overpass'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 27px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
