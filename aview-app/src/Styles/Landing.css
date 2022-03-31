@@ -1,12 +1,7 @@
-
-
-
-.Landing-logo {
-    /* logowhite 2 */
-    
-    position: absolute;
-    width: 149.01px;
-    height: 50px;
-    left: 100px;
-    top: 55px;
+.landing {
+    display: flex;
+    justify-content: center;
 }
+
+
+
