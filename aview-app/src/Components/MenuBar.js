@@ -13,6 +13,16 @@ function MenuBar(){
     navigate(path);
     }
 
+    const creatorsRoute = () =>{ 
+        let path = '/creators' 
+        navigate(path);
+    }
+
+    const translatorsRoute = () =>{ 
+        let path = '/translators' 
+        navigate(path);
+    }
+
     const homeRoute = () =>{ 
         let path = '/' 
         navigate(path);
@@ -48,7 +58,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}disableRipple>
+                 }} onClick={creatorsRoute} disableRipple>
                     Creators
                 </Button>
             </header>
@@ -63,7 +73,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}>
+                 }} onClick={translatorsRoute} disableRipple>
                     Translators
                 </Button>
             </header> 
