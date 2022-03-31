@@ -1,12 +1,13 @@
 import MenuBar from "../Components/MenuBar";
 import React, {useState, useEffect} from "react";
+import TranslatorsBg from "../Components/TranslatorsPage/TranslatorsBg";
 
 function TranslatorsPage() {
 
     return (
         <div>
             <MenuBar />
-            <h1>This is the translators page</h1>
+            <TranslatorsBg />
         </div>
     )
 }

@@ -3,7 +3,6 @@ import React, {useState, useEffect} from "react";
    function Background(){
         return(
             <background class='Landing'>
-                <header className = 'Landing-background'></header>
                 <header className='blob1'></header>
                 <header className='blob2'></header>
                 <header className='blob3'></header>
