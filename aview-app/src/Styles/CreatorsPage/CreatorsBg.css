@@ -1,0 +1,13 @@
+.blob {
+    /* Vector */
+
+position: absolute;
+width: 605px;
+height: 743px;
+left: -163px;
+top: 1829px;
+
+background: linear-gradient(150.63deg, rgba(254, 54, 136, 0.5) 10.87%, rgba(115, 188, 255, 0.5) 94.92%);
+filter: blur(400px);
+
+}

@@ -3,6 +3,7 @@ import {useNavigate} from "react-router-dom";
 import Button from '@mui/material/Button';
 import React from "react";
 import box from "../img/Rectangle-67.svg";
+import Logo from "../img/logowhite3.svg";
 
 
 
@@ -11,6 +12,16 @@ function MenuBar(){
     const aboutRoute = () =>{ 
     let path = '/about' 
     navigate(path);
+    }
+
+    const creatorsRoute = () =>{ 
+        let path = '/creators' 
+        navigate(path);
+    }
+
+    const translatorsRoute = () =>{ 
+        let path = '/translators' 
+        navigate(path);
     }
 
     const homeRoute = () =>{ 
@@ -22,6 +33,7 @@ function MenuBar(){
 
     return(
         <menuBar class = 'bar'>
+            <header className='logo'> <img src={Logo} className="Landing-logo" alt="logo" ></img></header>
             <header className='homeBut'>
                 <Button href="#text-buttons" style={{
  
@@ -48,7 +60,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}disableRipple>
+                 }} onClick={creatorsRoute} disableRipple>
                     Creators
                 </Button>
             </header>
@@ -63,7 +75,7 @@ function MenuBar(){
                     textTransform: 'none',
                     color: '#FFFFFF'
 
-                 }}>
+                 }} onClick={translatorsRoute} disableRipple>
                     Translators
                 </Button>
             </header> 
