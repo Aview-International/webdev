@@ -17,7 +17,7 @@ function Landing(){
         <div>
             {/* <Background></Background> */}
             <MenuBar/>
-            <Graphics/>
+            {/* <Graphics/>
             <StatsBox/>
             <TopText/>
             
@@ -25,7 +25,7 @@ function Landing(){
             <WhyAview/>
             <ContentCreator/>
             <GenAview/>
-            <BottomPage/>
+            <BottomPage/> */}
         </div>
 
         

@@ -32,17 +32,17 @@ function MenuBar(){
 
 
     return(
-        <nav class="navbar">
-            <a class="logo"><img src={Logo} alt="freeCodeCamp logo"/></a>
-            <div class="link-container">
-                <ul class="nav-links">
-                    <li class="nav-item"><a href="#">Curriculum</a></li>
-                    <li class="nav-item"><a href="#">Forum</a></li>
-                    <li class="nav-item"><a href="#">News</a></li>
-                    <li class="nav-item"><a href="#">Sign in</a></li>
+        <nav className="navbar">
+            <a className="logo"><img src={Logo} alt="AView Logo"/></a>
+            <div className="link-container">
+                <ul className="nav-links">
+                    <li className="nav-item"><a onClick={homeRoute}>Home</a></li>
+                    <li className="nav-item"><a onClick={creatorsRoute}>Creators</a></li>
+                    <li className="nav-item"><a onClick={translatorsRoute}>Translators</a></li>
+                    <li className="nav-item"><a onClick={aboutRoute}>About</a></li>
                 </ul>
             </div>
-            <ul class="contact-us">
+            <ul className="contact-us">
                 <li><a>Contact Us</a></li>
             </ul>
   </nav>
