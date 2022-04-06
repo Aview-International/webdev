@@ -5,7 +5,7 @@ import Button from '@mui/material/Button';
 function TopText(){
     return(
         <topText class = 'topText'>
-            <header className="headLine">Translation and Transcribing </header>
+            <div className="headLine">Increase Your International Fanbase </div>
             <p className="description">
             AVIEW is a leading multi-media translation service. We work with content creators to expand their international viewership.            
             </p>

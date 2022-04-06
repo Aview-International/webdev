@@ -32,90 +32,21 @@ function MenuBar(){
 
 
     return(
-        <menuBar class = 'bar'>
-            <header className='logo'> <img src={Logo} className="Landing-logo" alt="logo" ></img></header>
-            <header className='homeBut'>
-                <Button href="#text-buttons" style={{
- 
-                    // fontFamily: 'Overpass',
-                    // fontStyle: 'normal',
-                    fontWeight: 500,
-                    fontSize: '18px',
-                    lineHeight: '30px',
-                    textTransform: 'none',
-                    color: '#FFFFFF'
-
-                 }}onClick={homeRoute} disableRipple>
-                    Home
-                </Button>
-            </header>
-            <header className='creatorBut'>
-                <Button href="#text-buttons" style={{
- 
-                    // fontFamily: 'Overpass',
-                    // fontStyle: 'normal',
-                    fontWeight: 500,
-                    fontSize: '18px',
-                    lineHeight: '30px',
-                    textTransform: 'none',
-                    color: '#FFFFFF'
-
-                 }} onClick={creatorsRoute} disableRipple>
-                    Creators
-                </Button>
-            </header>
-            <header className='translatorBut'>
-                <Button href="#text-buttons" style={{
- 
-                    // fontFamily: 'Overpass',
-                    // fontStyle: 'normal',
-                    fontWeight: 500,
-                    fontSize: '18px',
-                    lineHeight: '30px',
-                    textTransform: 'none',
-                    color: '#FFFFFF'
-
-                 }} onClick={translatorsRoute} disableRipple>
-                    Translators
-                </Button>
-            </header> 
-            <header className='aboutBut'>
-                <Button variant = 'text' style={{
- 
-                    // fontFamily: 'Overpass',
-                    // fontStyle: 'normal',
-                    
-                    fontWeight: 500,
-                    fontSize: '18px',
-                    lineHeight: '22px',
-                    textTransform: 'none',
-                    color: '#FFFFFF'
-
-                 }} onClick={aboutRoute}>
-                    About
-                </Button>
-            </header>
-            {/* <header className="contactRect"></header> */}
-            <header className='contactRect'> <img src={box} className="box1" alt="contactRect" ></img></header>
-
-            <header className='contactBut'>
-                <Button variant = "text" href="#text-buttons" sx={{
-                    width: '200px',
-                    fontWeight: 500,
-                    fontSize: '18px',
-                    lineHeight: '30px',
-                    color: '#ffffff',
-                    textTransform: 'none'  
-
-                 }}onClick={()=>{window.location.reload(false);}}disableRipple disableFocusRipple>
-                    Contact Us
-                </Button>
-            </header> 
-
-        </menuBar>
-
-
-    );
-}
+        <nav class="navbar">
+            <a class="logo"><img src={Logo} alt="freeCodeCamp logo"/></a>
+            <div class="link-container">
+                <ul class="nav-links">
+                    <li class="nav-item"><a href="#">Curriculum</a></li>
+                    <li class="nav-item"><a href="#">Forum</a></li>
+                    <li class="nav-item"><a href="#">News</a></li>
+                    <li class="nav-item"><a href="#">Sign in</a></li>
+                </ul>
+            </div>
+            <ul class="contact-us">
+                <li><a>Contact Us</a></li>
+            </ul>
+  </nav>
+    )
+};
 
 export default MenuBar;

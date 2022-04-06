@@ -15,7 +15,7 @@ const baseURL = "http://localhost:3000";
 function Landing(){
     return(
         <div>
-            <Background></Background>
+            {/* <Background></Background> */}
             <MenuBar/>
             <Graphics/>
             <StatsBox/>
