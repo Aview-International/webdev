@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   color: white;
+  font-size: 18px;
 }
 
 .logo {
@@ -18,13 +19,8 @@
 }
 
 .nav-item {
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  white-space: nowrap;
 
-}
-
-.contact-us {
-  list-style: none;
-  padding-right: 50px;
-  padding-top: 35px;
 }

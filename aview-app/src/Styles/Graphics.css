@@ -1,36 +1,8 @@
-.phoneImage{
-    /* Saly-24 */
-
-    position: absolute;
-    height: 200px;
-    width: 526.0791015625px;
-    left: 457px;
-    top: 388px;
-   
-    
-
-
-
+.container {
+    display: flex;
+    justify-content: center;
 }
-.swirl2{
-    /* doodle-4 1 */
 
-    position: absolute;
-    width: 200px;
-    height: 200px;
-    left: 1121px;
-    top: 556px;
-
-}
-.swirl1{
-  /* doodle-5 1 */
-
-/* doodle-5 1 */
-    position: absolute;
-    height: 250px;
-    width: 250px;
-    left: 140px;
-    top: 235px;
-    
-
+.phone {
+    padding-top: 50px;
 }

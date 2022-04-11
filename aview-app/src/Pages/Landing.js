@@ -17,15 +17,16 @@ function Landing(){
         <div>
             {/* <Background></Background> */}
             <MenuBar/>
-            {/* <Graphics/>
-            <StatsBox/>
             <TopText/>
+            <Graphics/>
+            <StatsBox/>
             
             <GlobeInfo/>
             <WhyAview/>
             <ContentCreator/>
             <GenAview/>
-            <BottomPage/> */}
+            {/* <BottomPage/> */}
+            {/* todo: add FAQ component */}
         </div>
 
         

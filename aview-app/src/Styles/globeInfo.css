@@ -1,72 +1,19 @@
-.globe1{
-    /* Saly-44 */
-
-    position: absolute;
-    height: 450px;
-    width: 450px;
-    left: 890px;
-    top: 1172px;
-    
-
-
-
+.globeInfoContainer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
 }
 
-.bodyText{
-    /* AVIEW will satisfy all your translation needs. Want subtitle translations? Dubbing? Services for short-form content? Don’t worry AVIEW has everything you need. Just contact us today and get everything done fast so you can do what you do best. */
-
-    position: absolute;
-    width: 613px;
-    height: 162px;
-    left: 100px;
-    top: 1338px;
-    
-
-    font-weight: 400, regular;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
-
-
+.text {
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-right: 250px;
 }
 
-.text1{
-    /* You Create. We Translate. */
-
-    position: absolute;
-    width: 613px;
-    height: 61px;
-    left: 100px;
-    top: 1262px;
-
-
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
-
-    color: #FFFFFF;
-
-
-
+.text p {
+    color: white;
 }
 
-
-.lMoreBut{
-    /* Learn More */
-
-    position: absolute;
-    width: 92px;
-    height: 23px;
-    left: 100px;
-    top: 1530px;
-
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 23px;
-    text-decoration-line: underline;
-
-    color: #FFFFFF;
-
+.globe {
 
 }

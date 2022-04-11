@@ -40,11 +40,9 @@ function MenuBar(){
                     <li className="nav-item"><a onClick={creatorsRoute}>Creators</a></li>
                     <li className="nav-item"><a onClick={translatorsRoute}>Translators</a></li>
                     <li className="nav-item"><a onClick={aboutRoute}>About</a></li>
+                    <li className="nav-item"><a>Contact Us</a></li>
                 </ul>
             </div>
-            <ul className="contact-us">
-                <li><a>Contact Us</a></li>
-            </ul>
   </nav>
     )
 };

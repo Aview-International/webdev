@@ -1,39 +1,24 @@
-
-
-.textStyle{
-
-    position: absolute;
-    width: 401px;
-    height: 61px;
-    left: 520px;
-    top: 1743px;
-
-
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
-    background: linear-gradient(90.08deg, #FE3688 -1.91%, #73BCFF 26.37%, #FE3688 53.53%, #EF1D1D 78.42%, #FFDFDB 105.57%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-}
-
-.whenDesc{
-    position: absolute;
-    width: 755px;
-    height: 54px;
-    left: 348px;
-    top: 1814px;
-
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
+.whyAview {
+    
 
 }
-/* Rectangle 104 */
 
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.textHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.textDesc {
+    display: flex;
+    justify-content: center;
+    color: white
+}
 
 .infoBox{
     /* Rectangle 108 */

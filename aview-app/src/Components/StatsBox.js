@@ -1,18 +1,28 @@
 import "../Styles/StatsBox.css";
 import React from "react";
+import stat1 from "../img/stat1.svg";
+import stat2 from "../img/stat2.svg";
+import stat3 from "../img/stat3.svg";
 
 function StatsBox(){
     return(
-        <statsBox class = 'statBox'>
-            <header className="rect1"></header>
-            <header className="rect2"></header> 
-            <header className="stat1">500M+</header>   
-            <p className="stat1under">International Creator Views</p>
-            <header className="stat2">15+</header>   
-            <p className="stat2under">Languages </p>
-            <header className="stat3">100M+</header>   
-            <p className="stat3under">Our Creators' Subscribers</p>
-        </statsBox>
+        <div>
+            <div className="statscontainer">
+                <div className="stats">
+                    <header><img src={stat1} alt="" ></img></header>
+                    <p>International Creator Views</p>
+                </div>
+                <div className="stats">    
+                    <header><img src={stat2} alt="" ></img></header>
+                    <p>Languages</p>
+                </div>
+                <div className="stats">    
+                    <header><img src={stat3} alt="" ></img></header>
+                    <p>International Gained Subscribers</p>
+                </div>
+        </div>
+        </div>
+        
 
 
 
@@ -22,3 +32,7 @@ function StatsBox(){
 
 }
 export default StatsBox;
+
+{/* <div className="stat-item"><img src={stat1} alt="" ></img></div>
+                        <div className="stat-item"><img src={stat2} alt="" ></img></div>
+                        <div className="stat-item"><img src={stat3} alt="" ></img></div> */}
