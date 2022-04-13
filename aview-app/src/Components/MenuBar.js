@@ -34,7 +34,7 @@ function MenuBar(){
     return(
         <nav className="navbar">
             <a className="logo"><img src={Logo} alt="AView Logo"/></a>
-            <div className="link-container">
+            {/* <div className="link-container">
                 <ul className="nav-links">
                     <li className="nav-item"><a onClick={homeRoute}>Home</a></li>
                     <li className="nav-item"><a onClick={creatorsRoute}>Creators</a></li>
@@ -42,7 +42,7 @@ function MenuBar(){
                     <li className="nav-item"><a onClick={aboutRoute}>About</a></li>
                     <li className="nav-item"><a>Contact Us</a></li>
                 </ul>
-            </div>
+            </div> */}
   </nav>
     )
 };

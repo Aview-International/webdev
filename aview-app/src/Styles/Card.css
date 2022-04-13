@@ -1,0 +1,41 @@
+.card-container {
+    /* position: absolute;
+    width: 325px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 4px solid transparent;
+    border-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border-image-slice: 1; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2px;
+    background-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    border: 4px solid;
+    width: 325px;
+    border-radius: 10px;
+}
+
+.card {
+    background: #090C32;
+    border-radius: 5px;
+}
+
+.image {
+    width: 100%;    
+
+}
+
+.header {
+    text-align: center;
+    color: white;
+}
+
+.desc {
+    color: white;
+    text-align: center;
+}
+
+

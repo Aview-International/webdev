@@ -19,11 +19,11 @@ function TopText(){
                     <p>AVIEW is a leading multi-media translation service. We help you expand your international viewership.</p>
                 </div>
             </div>
-            <div className="container">
+            {/* <div className="container">
                 <div className="ttDescription">
                     <button>Contact Us</button>
                 </div>
-            </div>
+            </div> */}
 
 
         </div>
