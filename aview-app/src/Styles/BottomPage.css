@@ -1,142 +1,22 @@
-.aviewLogo{
-    /* logowhite 3 */
 
-    position: absolute;
-    width: 210px;
-    height: 80px;
-    left: 100px;
-    top: 4455px;
-
+ .footer {
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
 }
-.ytIcon{
-    /* Group 12 */
 
-    position: absolute;
+.aviewLogo {
+    display: flex;
+    /* justify-content: center; */
+}
 
-    left: 110px;
-    top: 4550px;
+.socialLogos {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
     
-
-
 }
 
-.liIcon{
-    position: absolute;
- 
-    left: 230px;
-    top: 4555px;
-    
-
-}
-
-.creator1But{
-    /* Creators */
-
-    position: absolute;
-    width: 70px;
-    height: 23px;
-    left: 857px;
-    top: 4480px;
-
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
-
-    color: #FFFFFF;
-
-}
-
-.translator1But{
-    /* Translators */
-
-    position: absolute;
-    width: 92px;
-    height: 23px;
-    left: 962px;
-    top: 4480px;
-    
-
-
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
-
-    color: #FFFFFF;
-
-
-}
-
-.about1But{
-    /* About */
-
-    position: absolute;
-    width: 51px;
-    height: 23px;
-    left: 1089px;
-    top: 4480px;
-
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
-
-    color: #FFFFFF;
-
-
-}
-
-.ContactBut{
-    /* Contact */
-
-    position: absolute;
-    width: 65px;
-    height: 23px;
-    left: 1175px;
-    top: 4480px;
-
-
-
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
-
-    color: #FFFFFF;
-
-
-}
-
-.careerBut{
-    /* Careers */
-
-    position: absolute;
-    width: 64px;
-    height: 23px;
-    left: 1275px;
-    top: 4480px;
-
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 30px;
-
-    color: #FFFFFF;
-
-
-}
-
-.line{
-    /* Line 9 */
-
-    position: absolute;
-    width: 1250px;
-    height: 0px;
-    left: 95px;
-    top: 4402px;
-    
-    border: solid;
-
-    border-style: solid;
-    border-image: linear-gradient(90deg, #73BCFF 0%, #DE2F77 100%);
-    border-image-slice: 1;
-    /* border-radius: 5px; */
-
-
+.socialLogos img {
+    padding: 25px;
 }

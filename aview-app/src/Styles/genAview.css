@@ -1,141 +1,41 @@
-.genTitle{
-  
+.generateAview-container {
+    display: flex;
+    flex-direction: column;
+}
 
-    position: absolute;
-    width: 365px;
-    height: 61px;
-    left: 539px;
-    top: 3463px;
+.header-container {
+    display: flex;
+    justify-content: center;
+}
 
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 61px;
-    /* identical to box height */
-
-    background: radial-gradient(53.8% 5635.33% at 50% 50%, #FE3688 0%, #73BCFF 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-
-
+.row-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 150px;
 
 }
 
-.expAudience{
-    /* Expand your Audience */
+.row-container-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 105px;
+    padding-bottom: 100px;
+}
 
-    position: absolute;
-    width: 505px;
-    height: 46px;
-    left: 767px;
-    top: 3604px;
-    
+.gen-col {
+    padding-left: 600px;
+    /* padding-bottom: 80px; */
+}
 
-    font-weight: 700;
+h3 {
+    color: white;
     font-size: 36px;
-    line-height: 46px;
-
-    color: #FFFFFF;
-
-
-}
-
-.compImg{
-    /* business-3d-374 1 */
-
-    position: absolute;
-    height: 250px;
-    width: 322.5px;
-    left: 247px;
-    top: 3581px;
-
-
-}
-
-.expDesc{
-    /* Choosing not to expand your content to reach international viewers is a missed opportunity. AVIEW can help. Contact us today! */
-
-position: absolute;
-width: 468px;
-height: 81px;
-left: 767px;
-top: 3660px;
-
-
-font-weight: 400;
-font-size: 21px;
-line-height: 27px;
-
-color: #FFFFFF;
-
-
-}
-
-.gStarted{
-    /* Rectangle 101 */
-
-    position: absolute;
-    left: 767px;
-    top: 3781px;
-
-
-}
-.becomeT{
-    /* Rectangle 100 */
-
-    position: absolute;
-    left: 775px;
-    top: 4162px;
-
 }
 
 
-.translatorHeadline{
-    /* Subtitling Jobs */
-
-    position: absolute;
-    width: 505px;
-    height: 46px;
-    left: 775px;
-    top: 4012px;
-    
-
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 46px;
-    /* identical to box height */
-
-    color: #FFFFFF;
-
-
-}
-.translatorDesc{
-    /* Are you looking for a subtitling job? Apply today and join the team. */
-
-    position: absolute;
-    width: 355px;
-    height: 54px;
-    left: 775px;
-    top: 4068px;
-    
-
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-    color: #FFFFFF;
-
-
-}
-
-.translatorImg{
-    /* casual-life-3d-young-man-in-orange-headphones-sitting-at-green-table-and-using-computer 1 */
-
-    position: absolute;
-    height: 250px;
-    width: 363.6363525390625px;
-    left: 226px;
-    top: 3981px;
-
-    /* background: url(../img/translator.png); */
-
-}

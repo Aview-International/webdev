@@ -8,6 +8,7 @@ function StatsBox(){
     return(
         <div>
             <div className="statscontainer">
+                <div className="bordercontainer">
                 <div className="stats">
                     <header><img src={stat1} alt="" ></img></header>
                     <p>International Creator Views</p>
@@ -20,7 +21,8 @@ function StatsBox(){
                     <header><img src={stat3} alt="" ></img></header>
                     <p>International Gained Subscribers</p>
                 </div>
-        </div>
+                </div>
+            </div>
         </div>
         
 

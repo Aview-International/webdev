@@ -1,9 +1,30 @@
+
+
+/* This controls the outer border of the box */
 .statscontainer {
     display: flex;
     justify-content: center;
-    padding-left: 40px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    background-image: linear-gradient(153.68deg, #FE3688 -1.09%, #73BCFF 29.62%, #B9DCFF 62.2%, #FE3688 100%);
+    width: 95%;
+    border-radius: 12px;
+}
+
+/* This controls the inner border of the box */
+.bordercontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #090C32;
+    width: 100%;
+    height: 405px;
+    border-radius: 10px;
 
 }
+
 .stats {
     display: flex;
     flex-direction: column;

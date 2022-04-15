@@ -1,0 +1,16 @@
+.BandB-container {
+    display: flex;
+    background: linear-gradient(90.06deg, #85B6EC 5.73%, #C3529B 97.74%),
+                linear-gradient(90.06deg, #85B6EC 5.73%, #C3529B 97.74%);
+    height: 350px;  
+    align-items: center;
+    justify-content: center;
+}
+
+.BandB-container h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}

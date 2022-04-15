@@ -1,12 +1,19 @@
-import "../Styles/TopText.css";
+import "../Styles/BottomPage.css";
 import React from "react";
-import Button from '@mui/material/Button';
+import logo from "../img/logowhite3.svg";
+import youtubeLogo from "../img/youtubeLogo.png";
 
 function BottomPage(){
     return(
-        <bottomPage class = 'pageBot'>
-            <header className="aviewLogo"></header>
-        </bottomPage>
+        <div className="footer">
+            <div className="aviewLogo">
+                <img src={logo} alt="Aview logo" />
+            </div>
+            <div className="socialLogos">
+                <img src={youtubeLogo} alt="youtube logo"/>
+                <img src={youtubeLogo} alt="linkedin logo" />
+            </div>
+        </div>
     );
 
 

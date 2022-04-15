@@ -1,34 +1,45 @@
 import "../Styles/WhyAview.css";
 import React, { useState, useEffect } from "react";
 import calImg from "../img/Saly-42.png";
-import hand from "../img/Saly-31.png";
-import clist from "../img/Saly-26.png";
+import clist from "../img/Saly-261.png";
 import whyWeLead from "../img/whyWeLead.svg";
 import Card from "../Components/card";
 import handImg from "../img/Saly-31.png";
 
 function WhyAview() {
   return (
-    <div className="translators">
+    <div className="whyAview-container">
+      <div className="whyAview-header">
+        <img src={whyWeLead} alt="why" />
+        <p>AVIEW focuses on making our services 100% catered to our creators. Whether you need subtitles, dubbing, or shorts, AVIEW will help you along your journey.</p>
+      </div>
+
       <div className="translators">
+        <div className = "card1">
+        <Card
+          src={calImg}
+          alt="hand image"
+          header="Fast & Easy"
+          desc="AVIEW guarantees a 24-hour turnaround on subtitle and 48 hours on dubbed content. "
+        />
+        </div>
+        <div className = "card1">
         <Card
           src={handImg}
           alt="hand image"
-          header="header"
-          desc="description"
+          header="Flexible"
+          desc="We offer a personalized payment plan and tailor our process to your needs.ion"
         />
+        </div>
+        <div className = "card1">
         <Card
-          src={handImg}
+          className="clist"
+          src={clist}
           alt="hand image"
-          header="header"
-          desc="description"
+          header="Accurate"
+          desc="We will ensure that our translations are accurate no matter the content. "
         />
-        <Card
-          src={handImg}
-          alt="hand image"
-          header="header"
-          desc="description"
-        />
+        </div>
       </div>
     </div>
   );

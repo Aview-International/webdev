@@ -1,205 +1,29 @@
-.creatorTitle{
 
-    position: absolute;
-    width: 840px;
-    height: 61px;
-    left: 300px;
-    top: 2668px;
-    
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 60px;
-
-    color: #FFFFFF;
-
-}
-.titleStyle{
-    background: linear-gradient(90.27deg, #FE3688 0.09%, #73BCFF 25.62%, #3B82F1 52.73%, #B9DCFF 79.58%, #FE3688 101.16%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-
+.contentCreator-Container {
+    display: flex;
+    flex-direction: column;
 }
 
-.lpLogo{
-    
-/* finished new */
-    position: absolute;
-    width: 154.57px;
-    height: 150px;
-    left: 270px;
-    top: 2809px;
-
-    mix-blend-mode: normal;
-
+.creatorTitle {
+    display: flex;
+    justify-content: center;
+    padding-top: 160px;
+    padding-bottom: 80px;
 }
 
-.loganPaul{
-    /* Logan Paul */
-
-    position: absolute;
-    width: 106px;
-    height: 27px;
-    left: 294px;
-    top: 2979px;
-    
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
-
-
+.creators {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 160px;
 }
 
-.ninja{
-    /* Ninja */
-    position: absolute;
-    width: 50px;
-    height: 10px;
-    left: 695px;
-    top: 2979px;
-    
-
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-    
-
-    color: #FFFFFF;
-
-
-}
-.ninjaLogo{
-    /* image 27 */
-
-    position: absolute;
-    width: 131.39px;
-    height: 200px;
-    left: 654px;
-    top: 2809px;
-
-    
-    mix-blend-mode: normal;
-
-}
-.saudName{
-    /* FouseyTube */
-    position: absolute;
-    width: 134px;
-    height: 27px;
-    left: 1018px;
-    top: 2979px;
-    
-
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
-
-
-}
-.saudLogo{
-    /* download-removebg-preview 1 */
-
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 1010px;
-    top: 2809px;
-    
-
-    
-    mix-blend-mode: normal;
-
+.creator-row {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
 }
 
-.wiLogo{
-    /* image 29 */
-
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 272px;
-    top: 3076px;
-
-    
-
-}
-
-.wiName{
-    /* Active Self Protection */
-    position: absolute;
-    width: 70px;
-    height: 27px;
-    left: 312px;
-    top: 3246px;
-
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-    color: #FFFFFF;
-
-
-}
-
-.ytLogo{
-
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 645px;
-    top: 3076px;
-
-    
-
-}
-
-.ytTxt{
-    /* Yes Theory */
-
-    position: absolute;
-    width: 104px;
-    height: 27px;
-    left: 668px;
-    top: 3246px;
-    
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
-
-
-}
-
-.mrLogo{
-        /* image 28 */
-
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    left: 1010px;
-    top: 3079px;
-
-
-}
-
-.mrTxt{
-    /* Mark Rober */
-
-    position: absolute;
-    width: 109px;
-    height: 27px;
-    left: 1030px;
-    top: 3246px;
-    
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 27px;
-
-    color: #FFFFFF;
-
-
+h4 {
+    color: white;
+    text-align: center;
 }

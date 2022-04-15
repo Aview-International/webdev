@@ -1,0 +1,10 @@
+.faq-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.faq-container h1 {
+    background-image: linear-gradient(90.01deg, #FE3688 -3.79%, #73BCFF 103.79%);
+}
