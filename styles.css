@@ -1,0 +1,91 @@
+* {
+  background-color: ;
+  margin: 0;
+  padding: 0;
+}
+/**********************************/
+/* HEADER*/
+/**********************************/
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 150px;
+  margin: 3.5rem 3rem 3rem 6rem;
+}
+
+.main-nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin-right: 1rem;
+  list-style-type: none;
+}
+
+.main-nav-link-option {
+  display: flex;
+  margin-right: 5rem;
+}
+
+.section-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading-primary {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+
+.heading-secondary {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.doodle-1 {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  bottom: 300px;
+}
+
+.saly-1 {
+  height: 350px;
+  width: 450px;
+  align-items: center;
+  margin-left: 80px;
+}
+
+.doodle-2 {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  left: 180px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 100px 150px 200px;
+  text-align: center;
+  column-gap: 250px;
+}
+
+.column {
+  height: 80px;
+  margin-left: 80px;
+  text-align: center;
+}
